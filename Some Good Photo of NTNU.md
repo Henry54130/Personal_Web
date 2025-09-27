@@ -1,1 +1,1 @@
-![](cat_ntnu_resturant.jpg)
+![](./cat_ntnu_resturant.jpg)
