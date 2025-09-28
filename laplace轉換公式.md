@@ -1,3 +1,6 @@
+$2$
+
+
 ## Basic
 Table 2-6 from textbook
 
