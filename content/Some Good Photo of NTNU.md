@@ -1,2 +1,2 @@
-<img src="./cat_ntnu_resturant.jpg" alt="NTNU 餐廳" width="400">
+<img src="./content/cat_ntnu_resturant.jpg" alt="NTNU 餐廳" width="400">
 
