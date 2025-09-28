@@ -4,10 +4,3 @@ description: Hellow
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-
-footer:
-  copyright: "© 2025 MySite"
-  social:
-    - name: Instagram
-      url: https://www.instagram.com/dzsr_23rd_huangkuanyu/
-
