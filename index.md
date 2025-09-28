@@ -3,10 +3,13 @@
 
 >先偷放XD
 
-<iframe width="free" height="free"
+
+<div class="video-container">
+  <iframe
     src="https://www.youtube.com/embed/3iM_06QeZi8?autoplay=0"
-    title="YouTube video player"
+    title="Hold my hand"
     frameborder="0"
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
+    allowfullscreen
+  ></iframe>
+  
+  </div>
