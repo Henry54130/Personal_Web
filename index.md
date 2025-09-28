@@ -3,7 +3,7 @@
 
 >先偷放XD
 
-<iframe width="560" height="315"
+<iframe width="free" height="free"
     src="https://www.youtube.com/embed/3iM_06QeZi8?autoplay=0"
     title="YouTube video player"
     frameborder="0"
