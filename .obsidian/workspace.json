@@ -11,54 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "部分分式/部分分式展開7.png"
-              },
-              "icon": "lucide-image",
-              "title": "部分分式展開7"
-            }
-          },
-          {
-            "id": "00a9b1dad05a01b1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "部分分式/部分分式展開.md",
-                "mode": "source",
-                "source": false
+                "file": "自動控制/laplace轉換公式統整.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "部分分式展開"
-            }
-          },
-          {
-            "id": "fa46ab7a8121f9c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "部分分式/部分分式展開1.png"
-              },
-              "icon": "lucide-image",
-              "title": "部分分式展開1"
-            }
-          },
-          {
-            "id": "b486459a0e70935d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "部分分式/部分分式展開2.png"
-              },
-              "icon": "lucide-image",
-              "title": "部分分式展開2"
+              "title": "laplace轉換公式統整"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,28 +170,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b486459a0e70935d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "部分分式/部分分式展開1.png",
-    "部分分式/部分分式展開.md",
-    "部分分式/部分分式展開7.png",
-    "部分分式",
-    "部分分式/部分分式展開6.png",
-    "部分分式/部分分式展開5.png",
-    "部分分式/部分分式展開4.png",
-    "部分分式/部分分式展開3.png",
-    "部分分式/部分分式展開2.png",
+    "Note/Notes.md",
+    "自動控制/laplace轉換公式統整.md",
+    "自動控制/部分分式/部分分式展開.md",
+    "index.md",
+    "自動控制/部分分式/部分分式展開2.png",
+    "自動控制/部分分式/部分分式展開1.png",
+    "自動控制/部分分式/部分分式展開7.png",
+    "自動控制/部分分式",
+    "自動控制/部分分式/部分分式展開6.png",
+    "自動控制/部分分式/部分分式展開5.png",
+    "自動控制/部分分式/部分分式展開4.png",
+    "自動控制/部分分式/部分分式展開3.png",
     "自動控制/自動控制.md",
     "().md",
-    "index.md",
     "laplace轉換公式.md",
     "laplace 微分公式.md",
     "laplace轉換公式統整.md",
-    "Note/laplace_微分轉換.png",
-    "Note/basic_laplace.png",
+    "自動控制/laplace_微分轉換.png",
+    "自動控制/basic_laplace.png",
     "自動控制.md",
     "WEB Data.md",
-    "Note/Notes.md",
     "Note/noting_power.md",
     "Note/作筆記的時機.md",
     "作筆記的時機_何時作筆記.md",
