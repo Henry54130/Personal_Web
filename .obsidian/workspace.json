@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laplace轉換公式.md",
-                "mode": "source",
+                "file": "laplace轉換公式統整.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "laplace轉換公式"
+              "title": "laplace轉換公式統整"
+            }
+          },
+          {
+            "id": "aac89f8fcc682249",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Note/laplace_微分轉換.png"
+              },
+              "icon": "lucide-image",
+              "title": "laplace_微分轉換"
+            }
+          },
+          {
+            "id": "ee9a371007859c1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Note/basic_laplace.png"
+              },
+              "icon": "lucide-image",
+              "title": "basic_laplace"
             }
           }
         ]
@@ -172,9 +196,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Note/laplace_微分轉換.png",
+    "laplace轉換公式統整.md",
+    "Note/basic_laplace.png",
     "自動控制.md",
     "index.md",
-    "laplace轉換公式.md",
     "laplace 微分公式.md",
     "WEB Data.md",
     "Note/Notes.md",
