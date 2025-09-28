@@ -1,2 +1,2 @@
 ## Area
-- [筆記力](Note/noting_power.md)
+- [noting_power.md](Note/noting_power.md)
