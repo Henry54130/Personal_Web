@@ -1,2 +1,2 @@
-- [Music I Listen](/content/Music_I_Listen.md) 
-- [Notes](/content/Notes.md)
+- [Music I Listen](Music_I_Listen.md) 
+- [Notes](Notes.md)
