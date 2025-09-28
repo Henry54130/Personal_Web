@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB Data.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEB Data"
-            }
-          },
-          {
-            "id": "1a3608085b76f6f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,16 +170,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1a3608085b76f6f0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "WEB Data.md",
-    "Music_I_Listen.md",
+    "Note/noting_power.md",
+    "Note/作筆記的時機.md",
+    "作筆記的時機_何時作筆記.md",
+    "Note/Notes.md",
     "index.md",
+    "Music_I_Listen.md",
+    "WEB Data.md",
     "Untitled",
     "Game",
-    "Note/Notes.md",
     "math test.md",
-    "Note/noting_power.md",
     "Note"
   ]
 }
