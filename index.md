@@ -1,3 +1,3 @@
 - [Some Good Photo of NTNU](/content/Some Good Photo of NTNU.md)
-- [Music I Listen](/content/Music I Listen)
+- [Music I Listen](/content/Music I Listen.md)
 - 
