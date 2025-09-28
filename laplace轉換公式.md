@@ -1,42 +1,12 @@
-<h2>Basic</h2>
-<p>Table 2-6 from textbook</p>
+## Basic
+Table 2-6 from textbook
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th>時間函數 (Time Function)</th>
-      <th>轉換函數 (Transform Function)</th>
-      <th>時間函數 (Time Function)</th>
-      <th>轉換函數 (Transform Function)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>\(\delta(t)\)</td>
-      <td>\(1\)</td>
-      <td>\(\sin \omega t\)</td>
-      <td>\(\frac{\omega}{s^2 + \omega^2}\)</td>
-    </tr>
-    <tr>
-      <td>\(1\)</td>
-      <td>\(\frac{1}{s}\)</td>
-      <td>\(\cos \omega t\)</td>
-      <td>\(\frac{s}{s^2 + \omega^2}\)</td>
-    </tr>
-    <tr>
-      <td>\(t^n\)</td>
-      <td>\(\frac{n!}{s^{n+1}}\)</td>
-      <td>\(e^{at} \sin \omega t\)</td>
-      <td>\(\frac{\omega}{(s-a)^2 + \omega^2}\)</td>
-    </tr>
-    <tr>
-      <td>\(e^{at}\)</td>
-      <td>\(\frac{1}{s-a}\)</td>
-      <td>\(e^{at} \cos \omega t\)</td>
-      <td>\(\frac{s-a}{(s-a)^2 + \omega^2}\)</td>
-    </tr>
-  </tbody>
-</table>
+| 時間函數 (Time Function) | 轉換函數 (Transform Function) | 時間函數 (Time Function) | 轉換函數 (Transform Function) |
+| :---: | :---: | :---: | :---: |
+| $\delta(t)$ | $1$ | $\sin \omega t$ | $\frac{\omega}{s^2 + \omega^2}$ |
+| $1$ | $\frac{1}{s}$ | $\cos \omega t$ | $\frac{s}{s^2 + \omega^2}$ |
+| $t^n$ | $\frac{n!}{s^{n+1}}$ | $e^{at} \sin \omega t$ | $\frac{\omega}{(s-a)^2 + \omega^2}$ |
+| $e^{at}$ | $\frac{1}{s-a}$ | $e^{at} \cos \omega t$ | $\frac{s-a}{(s-a)^2 + \omega^2}$ |
 
 <hr>
 
