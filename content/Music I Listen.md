@@ -1,3 +1,3 @@
 ## Favorite singer
-- [IU Songs YT](https://youtu.be/iOKRYIMhaDk?feature=shared)
-- [Awesome Performance MV](https://youtu.be/CVd0rjpNR5I?feature=shared)
+- [IU Songs YT](https://youtube.com/playlist?list=PL7XsvwBNw77LUPAkfStLA0D8w-jdxzy9D&feature=shared)
+- [Awesome Performance MV](https://youtube.com/playlist?list=PL7XsvwBNw77KTHyP_HYS_G7pOauLLUxaC&feature=shared)
