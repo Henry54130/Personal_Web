@@ -11,9 +11,7 @@ Table 2-6 from textbook
 ---
 # 微分轉換
 已知  
-$$
-F(s) = \mathcal{L}\{f(t)\} = \int_0^\infty f(t)e^{-st}\,dt
-$$
+$$F(s) = \mathcal{L}\{f(t)\} = \int_0^\infty f(t)e^{-st}\,dt$$
 
 ---
 
