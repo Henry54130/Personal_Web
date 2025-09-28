@@ -12,27 +12,27 @@
   </thead>
   <tbody>
     <tr>
-      <td>δ(t)</td>
-      <td>1</td>
-      <td>sin ωt</td>
+      <td>\(\delta(t)\)</td>
+      <td>\(1\)</td>
+      <td>\(\sin \omega t\)</td>
       <td>\(\frac{\omega}{s^2 + \omega^2}\)</td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>\(1\)</td>
       <td>\(\frac{1}{s}\)</td>
-      <td>cos ωt</td>
+      <td>\(\cos \omega t\)</td>
       <td>\(\frac{s}{s^2 + \omega^2}\)</td>
     </tr>
     <tr>
-      <td>t^n</td>
+      <td>\(t^n\)</td>
       <td>\(\frac{n!}{s^{n+1}}\)</td>
-      <td>e^{at} sin ωt</td>
+      <td>\(e^{at} \sin \omega t\)</td>
       <td>\(\frac{\omega}{(s-a)^2 + \omega^2}\)</td>
     </tr>
     <tr>
-      <td>e^{at}</td>
+      <td>\(e^{at}\)</td>
       <td>\(\frac{1}{s-a}\)</td>
-      <td>e^{at} cos ωt</td>
+      <td>\(e^{at} \cos \omega t\)</td>
       <td>\(\frac{s-a}{(s-a)^2 + \omega^2}\)</td>
     </tr>
   </tbody>
