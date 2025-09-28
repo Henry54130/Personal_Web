@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Note/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Notes"
             }
           }
         ]
@@ -173,10 +173,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Note/noting_power.md",
-    "Note/作筆記的時機.md",
-    "作筆記的時機_何時作筆記.md",
     "Note/Notes.md",
     "index.md",
+    "Note/作筆記的時機.md",
+    "作筆記的時機_何時作筆記.md",
     "Music_I_Listen.md",
     "WEB Data.md",
     "Untitled",
