@@ -1,3 +1,3 @@
 - [Music I Listen](Music_I_Listen.md) 
-- [Notes](Notes.md)
+- [Notes](Note/Notes.md)
 - [Some beuty from Life After](Game_diary_LifeAfter.md)
