@@ -1,3 +1,4 @@
+<p><em>Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a> by GitHub, MIT License. Modified by Henry54130.</em></p>
 # The Cayman theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
