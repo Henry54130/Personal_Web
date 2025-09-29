@@ -1,7 +1,7 @@
 title: Henry's Web
 description: Hellow
 markdown: kramdown
-remote_theme: Henry54130/cayman_support_letax@main
+remote_theme: Henry54130/cayman_support_letax@master
 
 
 kramdown:
