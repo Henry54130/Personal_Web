@@ -4,9 +4,20 @@ markdown: kramdown
 
 # 使用你自己的 fork
 remote_theme: Henry54130/cayman_support_letax
-
-kramdown:
-  math_engine: mathjax
-
 header_pages:
   - index.md
+
+<script type="text/javascript">
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']]
+  },
+  options: {
+    ignoreHtmlClass: '.*|',
+    processHtmlClass: 'arithmatex'
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
