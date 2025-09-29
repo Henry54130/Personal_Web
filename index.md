@@ -3,12 +3,9 @@
 - [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
 - [自動控制](自動控制/自動控制.md)
 
-$$
-X-5
-$$
-
 >先偷放XD
 
+![](https://www.youtube.com/embed/3iM_06QeZi8?autoplay=0)
 <div class="video-container" style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/embed/3iM_06QeZi8?autoplay=0"
