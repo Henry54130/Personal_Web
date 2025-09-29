@@ -8,4 +8,5 @@ header_pages:
   - index.md
 
 kramdown:
+  input: GFM
   math_engine: mathjax
