@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/自動控制/梅森公式例題.md",
-                "mode": "preview",
-                "source": true
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "梅森公式例題"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,12 +173,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Note/自動控制/梅森公式.md",
     "Note/自動控制/自動控制.md",
+    "Note/自動控制/梅森公式.md",
+    "梅森公式例題.md",
+    "Note/自動控制/梅森公式例題.md",
+    "Note/自動控制/梅森公式例題1.png",
     "index.md",
     "Note/人工智慧.md",
-    "Note/自動控制/梅森公式例題1.png",
-    "Note/自動控制/梅森公式例題.md",
     "Note/自動控制/方塊圖合成.md",
     "Note/自動控制/部分分式/部分分式展開.md",
     "梅森公式.md",
@@ -216,7 +218,6 @@
     "自動控制/部分分式/部分分式展開6.png",
     "自動控制/部分分式/部分分式展開5.png",
     "自動控制/部分分式/部分分式展開4.png",
-    "自動控制/部分分式/部分分式展開3.png",
-    "().md"
+    "自動控制/部分分式/部分分式展開3.png"
   ]
 }
