@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自動控制/部分分式/部分分式展開.md",
-                "mode": "preview",
-                "source": true
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "部分分式展開"
+              "title": "index"
             }
           }
         ]
@@ -172,9 +172,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "自動控制/自動控制.md",
-    "index.md",
+    "Music_I_Listen.md",
     "自動控制/部分分式/部分分式展開.md",
+    "index.md",
+    "自動控制/自動控制.md",
     "自動控制/部分分式/部分分式展開1.png",
     "自動控制/部分分式/部分分式展開2.png",
     "WEB Data.md",
@@ -213,7 +214,6 @@
     "Note/noting_power.md",
     "Note/作筆記的時機.md",
     "作筆記的時機_何時作筆記.md",
-    "Music_I_Listen.md",
     "math test.md"
   ]
 }

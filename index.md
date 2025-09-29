@@ -3,6 +3,9 @@
 - [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
 - [自動控制](自動控制/自動控制.md)
 
+$$
+X-5
+$$
 
 >先偷放XD
 
