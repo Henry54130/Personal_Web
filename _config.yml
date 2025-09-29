@@ -1,17 +1,11 @@
 title: Henry's Web
 description: Hellow
 markdown: kramdown
-# 原本的 remote_theme 可以註解掉
-# remote_theme: henry54130/cayman_support_letax
-
-# 改成 local theme
-theme: cayman_support_letax
-
-# 指定 theme 路徑
-# Jekyll 會在 repo 根目錄下找 _themes/cayman_support_letax
-plugins_dir: _themes
-
+theme: null
 kramdown:
   math_engine: mathjax
 header_pages:
   - index.md
+include:
+  - _themes/cayman_support_letax
+
