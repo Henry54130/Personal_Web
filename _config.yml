@@ -1,19 +1,29 @@
-title: Henry's Web
-description: Hello
+# 網站基本設定
+title: "Henry's Web"
+description: "Hellow"
 markdown: kramdown
-theme: null
+
+# 本地主題
+theme: cayman_support_letax
+plugins_dir: _themes
+
+# kramdown 設定
 kramdown:
   math_engine: mathjax
+
+# 頁首設定 (如果你有自訂首頁)
 header_pages:
   - index.md
-include:
-  - _themes/cayman_support_letax
 
-  defaults:
+# 讓所有頁面自動使用 theme 的 default layout
+defaults:
   - scope:
-      path: ""
-      type: "pages"
+      path: ""        # 空字串表示全站
     values:
       layout: default
 
+# 可以額外加上 GitHub Pages 必須的 plugins
+plugins:
+  - jekyll-feed       # RSS feed
+  - jekyll-seo-tag    # SEO meta tags
 
