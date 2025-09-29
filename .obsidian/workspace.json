@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/自動控制/自動控制.md",
-                "mode": "source",
-                "source": false
+                "file": "Note/自動控制/梅森公式.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "自動控制"
+              "title": "梅森公式"
             }
           }
         ]
@@ -172,10 +172,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "梅森公式.md",
     "Note/自動控制/自動控制.md",
-    "自動控制/方塊圖合成.md",
     "index.md",
+    "Note/自動控制/梅森公式.md",
+    "Note/人工智慧.md",
+    "Note/自動控制/梅森公式例題1.png",
+    "Note/自動控制/梅森公式例題.md",
+    "Note/自動控制/方塊圖合成.md",
+    "Note/自動控制/部分分式/部分分式展開.md",
+    "梅森公式.md",
+    "自動控制/方塊圖合成.md",
     "_Data.md",
     "自動控制/部分分式/部分分式展開.md",
     "自動控制/梅森公式例題1.png",
@@ -211,11 +217,6 @@
     "自動控制/部分分式/部分分式展開5.png",
     "自動控制/部分分式/部分分式展開4.png",
     "自動控制/部分分式/部分分式展開3.png",
-    "().md",
-    "laplace轉換公式.md",
-    "laplace 微分公式.md",
-    "laplace轉換公式統整.md",
-    "自動控制/laplace/laplace_微分轉換.png",
-    "自動控制.md"
+    "().md"
   ]
 }
