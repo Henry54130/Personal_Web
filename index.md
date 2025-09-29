@@ -24,6 +24,8 @@
 ---
 <footer>
   <p>
+    <em>
     Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a> by GitHub, MIT License. Modified by Henry54130.
+    </em>
   </p>
 </footer>
