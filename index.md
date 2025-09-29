@@ -4,6 +4,7 @@
 - [自動控制](自動控制/自動控制.md)
 
 
+<<<<<<< HEAD
 ---
 ## 建造中
 
@@ -11,6 +12,9 @@
  -  [因為很多人都修管理學](管理學.md)
   - [人工智慧](人工智慧.md)
   - >先偷放XD
+=======
+![](https://www.youtube.com/embed/3iM_06QeZi8?autoplay=0)
+>>>>>>> d6f14beb68921934a3ffdc1e1ae4bb7d6a63d30e
 
 <div class="video-container" style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
