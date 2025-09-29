@@ -3,14 +3,6 @@
 - [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
 - [自動控制](自動控制/自動控制.md)
 
----
-
-{% raw %}  
-$x=1$  
-
-$$x^2$$  
-{% endraw %}
-
 
 >先偷放XD
 

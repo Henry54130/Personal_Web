@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "自動控制/部分分式/部分分式展開.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "部分分式展開"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "WEB Data.md",
+    "自動控制/部分分式/部分分式展開2.png",
+    "自動控制/部分分式/部分分式展開.md",
     "index.md",
+    "WEB Data.md",
     "_theme/cayman_support_letax/thumbnail.png",
     "_theme/cayman_support_letax/README.md",
     "_theme/cayman_support_letax/LICENSE",
@@ -194,9 +196,7 @@
     "Game/Game_diary_LifeAfter.md",
     "自動控制/自動控制.md",
     "自動控制/laplace轉換公式統整.md",
-    "自動控制/部分分式/部分分式展開.md",
     "Note/Notes.md",
-    "自動控制/部分分式/部分分式展開2.png",
     "自動控制/部分分式/部分分式展開1.png",
     "自動控制/部分分式/部分分式展開7.png",
     "自動控制/部分分式/部分分式展開6.png",
