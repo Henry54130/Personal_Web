@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "自動控制/梅森公式例題1.png"
+                "file": "Note/自動控制/自動控制.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "梅森公式例題1"
+              "icon": "lucide-file",
+              "title": "自動控制"
             }
           }
         ]
@@ -168,14 +170,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "21dff069302dab36",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "自動控制/部分分式/部分分式展開.md",
+    "Note/自動控制/自動控制.md",
+    "index.md",
+    "自動控制/梅森公式例題1.png",
     "自動控制/梅森公式例題.md",
     "自動控制/方塊圖合成.md",
-    "自動控制/部分分式/部分分式展開.md",
     "部分分式/部分分式展開.md",
-    "index.md",
-    "Note/自動控制/自動控制.md",
     "Mason’s Gain Formula.md",
     "_Data.md",
     "自動控制/laplace/laplace轉換公式統整.md",
@@ -213,8 +216,6 @@
     "laplace 微分公式.md",
     "laplace轉換公式統整.md",
     "自動控制/laplace/laplace_微分轉換.png",
-    "自動控制/laplace/basic_laplace.png",
-    "自動控制.md",
-    "Note/noting_power.md"
+    "自動控制.md"
   ]
 }
