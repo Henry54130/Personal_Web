@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "梅森公式例題.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "梅森公式例題"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "index.md",
+            "file": "梅森公式例題.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,13 +157,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "梅森公式例題1.png",
+    "梅森公式例題.md",
+    "Mason’s Gain Formula.md",
+    "Note/自動控制/自動控制.md",
     "index.md",
-    "管理學.md",
-    "自動控制/自動控制.md",
+    "人工智慧.md",
+    "Note/管理學.md",
+    "Note/Game/Game_diary_LifeAfter.md",
+    "方塊圖合成.md",
+    "部分分式/部分分式展開.md",
+    "部分分式",
+    "Note/自動控制/部分分式/部分分式展開.md",
+    "Note/Music_I_Listen.md",
+    "_Data.md",
     "().md",
     "自動控制/laplace轉換公式統整.md",
-    "自動控制",
-    "WEB Data.md",
+    "Note/自動控制",
     "laplace轉換公式.md"
   ]
 }

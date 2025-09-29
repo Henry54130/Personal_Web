@@ -1,10 +1,10 @@
 ## Homepage
-- [Music I Listen](Music_I_Listen.md) 
-- [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
-- [自動控制](自動控制/自動控制.md)
+- [Music I Listen](Note/Music_I_Listen.md) 
+- [Some beuty from Life After](Note/Game/Game_diary_LifeAfter.md)
+- [自動控制](Note/自動控制/自動控制.md)
 
 ## 建造中
- - [因為很多人都修管理學](管理學.md)
+ - [因為很多人都修管理學](Note/管理學.md)
  - [人工智慧](人工智慧.md)
 
 ---
