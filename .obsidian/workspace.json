@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
+                "file": "自動控制/自動控制.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "自動控制"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "自動控制/laplace/laplace轉換公式統整.md",
+    "自動控制/自動控制.md",
     "index.md",
+    "自動控制/laplace",
     "自動控制/部分分式/部分分式展開.md",
     "Music_I_Listen.md",
-    "自動控制/自動控制.md",
     "自動控制/部分分式/部分分式展開1.png",
     "自動控制/部分分式/部分分式展開2.png",
     "WEB Data.md",
@@ -192,12 +194,10 @@
     "_theme/cayman_support_letax/script/release",
     "_theme/cayman_support_letax/script/cibuild",
     "_theme/cayman_support_letax/script/bootstrap",
-    "_theme/cayman_support_letax/script",
     "_theme/cayman_support_letax/docs/CONTRIBUTING.md",
     "_theme/cayman_support_letax/docs/SUPPORT.md",
     "_theme/cayman_support_letax/docs/CODE_OF_CONDUCT.md",
     "Game/Game_diary_LifeAfter.md",
-    "自動控制/laplace轉換公式統整.md",
     "Note/Notes.md",
     "自動控制/部分分式/部分分式展開7.png",
     "自動控制/部分分式/部分分式展開6.png",
@@ -208,8 +208,8 @@
     "laplace轉換公式.md",
     "laplace 微分公式.md",
     "laplace轉換公式統整.md",
-    "自動控制/laplace_微分轉換.png",
-    "自動控制/basic_laplace.png",
+    "自動控制/laplace/laplace_微分轉換.png",
+    "自動控制/laplace/basic_laplace.png",
     "自動控制.md",
     "Note/noting_power.md",
     "Note/作筆記的時機.md",
