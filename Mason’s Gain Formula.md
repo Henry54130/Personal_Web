@@ -14,10 +14,7 @@ $$
 - 判別式 $\Delta$ 的展開式：
 
 $$
-\Delta = 1 - \sum (\text{單一迴路增益})
-+ \sum (\text{兩兩不相交迴路增益的乘積})
-- \sum (\text{三個互不相交迴路增益的乘積})
-+ \cdots
+\Delta = 1 - \sum (\text{單一迴路增益})+ \sum (\text{兩兩不相交迴路增益的乘積})- \sum (\text{三個互不相交迴路增益的乘積})+ \cdots
 $$
 
 - $\Delta_k$ 表示：  
