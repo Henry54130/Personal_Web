@@ -1,7 +1,9 @@
 ## Homepage
 - [Music I Listen](Music_I_Listen.md) 
 - [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
-- [自動控制](自動控制/自動控制.md)  
+- [自動控制](自動控制/自動控制.md)
+
+---
 $x=1$  
 $$x^2$$  
 
