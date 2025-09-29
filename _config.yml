@@ -9,3 +9,11 @@ header_pages:
 include:
   - _themes/cayman_support_letax
 
+  defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+
