@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梅森公式例題.md",
-                "mode": "preview",
-                "source": true
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "梅森公式例題"
+              "title": "index"
             }
           }
         ]
@@ -157,11 +157,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "梅森公式例題1.png",
-    "梅森公式例題.md",
-    "Mason’s Gain Formula.md",
+    "Note/自動控制/梅森公式.md",
+    "Note/梅森公式例題.md",
     "Note/自動控制/自動控制.md",
     "index.md",
+    "梅森公式例題1.png",
+    "Mason’s Gain Formula.md",
     "人工智慧.md",
     "Note/管理學.md",
     "Note/Game/Game_diary_LifeAfter.md",
