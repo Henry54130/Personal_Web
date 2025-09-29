@@ -1,7 +1,8 @@
 title: Henry's Web
 description: Hellow
 markdown: kramdown
-remote_theme: Henry54130/cayman_support_letax
+remote_theme: Henry54130/cayman_support_letax@main
+
 
 kramdown:
   math_engine: mathjax
