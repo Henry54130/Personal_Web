@@ -3,9 +3,7 @@
 - [Some beuty from Life After](Game/Game_diary_LifeAfter.md)
 - [自動控制](自動控制/自動控制.md)  
 $x=1$  
-$$
-x^2
-$$  
+$$x^2$$  
 
 >先偷放XD
 
