@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自動控制/自動控制.md",
-                "mode": "source",
+                "file": "Note/自動控制/自動控制.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -172,9 +172,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "方塊圖合成.md",
+    "Note/自動控制/自動控制.md",
+    "Mason’s Gain Formula.md",
+    "index.md",
+    "梅森公式例題.md",
+    "_Data.md",
     "自動控制/laplace/laplace轉換公式統整.md",
     "自動控制/自動控制.md",
-    "index.md",
     "自動控制/laplace",
     "自動控制/部分分式/部分分式展開.md",
     "Music_I_Listen.md",
@@ -212,8 +217,6 @@
     "自動控制/laplace/basic_laplace.png",
     "自動控制.md",
     "Note/noting_power.md",
-    "Note/作筆記的時機.md",
-    "作筆記的時機_何時作筆記.md",
-    "math test.md"
+    "Note/作筆記的時機.md"
   ]
 }
