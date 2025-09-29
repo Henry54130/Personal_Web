@@ -20,11 +20,10 @@
 ---
 -  [因為很多人都修管理學](管理學.md)
 - [人工智慧](人工智慧.md)
-  怎沒東西
-  
-$x=5$
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+
+<footer>
+  <p>
+    Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a> by GitHub, MIT License. Modified by Your Name.
+  </p>
+</footer>
