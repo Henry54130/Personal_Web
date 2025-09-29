@@ -21,7 +21,7 @@
 -  [因為很多人都修管理學](管理學.md)
 - [人工智慧](人工智慧.md)
 
-
+---
 <footer>
   <p>
     Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a> by GitHub, MIT License. Modified by Henry54130.
