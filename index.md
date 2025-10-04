@@ -4,7 +4,7 @@ title:
 ---
 **Teleportation！** Here're portals ～
 - [Music I Listen](Note/Music_I_Listen.md) 
-- [Some beuty from Life After](Note/Game/Game_diary_LifeAfter.md)
+- [Some landscape from Life After](Note/Game/Game_diary_LifeAfter.md)
 - [自動控制](Note/自動控制/自動控制.md)
 
 <footer>
