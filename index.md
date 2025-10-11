@@ -6,7 +6,7 @@ title:
 - [Music I Listen](Note/Music_I_Listen.md) 
 - [Some landscape from Life After](Note/Game/Game_diary_LifeAfter.md)
 - [自動控制](Note/自動控制/自動控制.md)
-- [人工智慧](Note/人工智慧.md)
+- [人工智慧](Note/人工智慧/人工智慧.md)
 <footer>
   <p>
     <em>
