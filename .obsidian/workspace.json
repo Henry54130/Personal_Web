@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "97a46af68c431457",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce9b16c31ac0cdc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Note/人工智慧.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "人工智慧"
@@ -170,10 +170,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ce9b16c31ac0cdc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "GAN.md",
+    "index.md",
     "Note/人工智慧.md",
+    "GAN.md",
     "訓練模型的步驟.md",
     "MLP_and_validation.md",
     "向後運算.md",
@@ -187,7 +188,6 @@
     "最基本AI的功能分類.md",
     "監督式學習及非監督式學習.md",
     "最基本AI的功能分類.png",
-    "index.md",
     "預計要加.md",
     "AI.md",
     "Note/自動控制/梅森公式.md",
