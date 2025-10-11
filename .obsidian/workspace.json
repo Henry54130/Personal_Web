@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/人工智慧/人工智慧 1.md",
+                "file": "Note/人工智慧/向後運算.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "人工智慧 1"
+              "title": "向後運算"
             }
           }
         ]
@@ -170,23 +170,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "21dff069302dab36",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "index.md",
     "Note/人工智慧/人工智慧.md",
-    "Note/人工智慧/人工智慧簡史.md",
-    "Note/人工智慧/AI_vs_統計.md",
-    "Note/人工智慧",
+    "Note/人工智慧/向前運算.md",
     "Note/人工智慧/GAN.md",
     "Note/人工智慧/訓練模型的步驟.md",
+    "Note/人工智慧/AI_vs_統計.md",
+    "Note/人工智慧/最基本AI的功能分類.md",
+    "Note/人工智慧/人工智慧簡史.md",
+    "index.md",
+    "Note/人工智慧/人工智慧 1.md",
+    "Note/人工智慧",
     "Note/人工智慧/MLP_and_validation.md",
     "Note/人工智慧/向後運算.md",
     "Note/人工智慧/sigmoid_微分.md",
-    "Note/人工智慧/向前運算.md",
     "Note/人工智慧/向後計算部分圖示.jpeg.png",
     "Note/人工智慧/必考_向前運算.png",
     "Note/人工智慧/機器學習與深度學習.md",
-    "Note/人工智慧/最基本AI的功能分類.md",
     "Note/人工智慧/監督式學習及非監督式學習.md",
     "最基本AI的功能分類.png",
     "預計要加.md",

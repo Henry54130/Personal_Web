@@ -1,3 +1,7 @@
+---
+title:
+  - AI的功能分類
+---
 | 類別                                 | 功能                            | 演算法                                                                                               |
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------- |
 | **監督式學習 (Supervised)**             | 預測 (Predicting)               | Linear regression, Decision Tree, Random Forest, Neural Network, Gradient Boosting Tree, CNN, RNN |
