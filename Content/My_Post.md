@@ -1,7 +1,7 @@
 ---
 title: My Post
 ---
- #極簡 
+ #極簡  
 🔗 [什麼！杯子也是種哲學？](https://www.threads.com/@read_i_fish/post/DLhPhXqpfDF?xmt=AQF0ht9nPMPWCetllzd1QjWAkBXJdpIwf5os2iiWsmTGZA)
 
  #社交 #生活態度  
