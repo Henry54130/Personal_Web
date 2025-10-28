@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20251028_Daily_Capture"
+            }
+          },
+          {
+            "id": "262055f226338b82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Content/Daily_Capture/2025m10/20251028_Daily_Capture.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "20251028_Daily_Capture"
             }
           }
         ]
@@ -170,8 +182,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "21dff069302dab36",
   "lastOpenFiles": [
+    "Content/Daily_Capture/2025m10/20251028_Daily_Capture.jpg",
+    "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
+    "Content/Daily_Capture/Daily_Capture.md",
     "index.md",
     "工程中/主題_半導體元件物理.md",
     "工程中/隨手拍.md",
@@ -196,10 +211,7 @@
     "Note/管理學.md",
     "工程中",
     "外部媒體推推..md",
-    "主題_微處理機.md",
     "Content/主題_筆記力",
-    "Note/Notes.md",
-    "Note/noting_power.md",
     "Content/Recording",
     "Recording/PXL_20251011_091345088.jpg",
     "Recording/PXL_20251011_091720584.jpg",
@@ -211,7 +223,6 @@
     "Content/人工智慧",
     "Content/人工智慧/向後計算部分圖示.jpeg.png",
     "Content/人工智慧/必考_向前運算.png",
-    "最基本AI的功能分類.png",
     "自動控制/laplace",
     "_theme/cayman_support_letax/LICENSE",
     "_theme/cayman_support_letax/jekyll-theme-cayman.gemspec",

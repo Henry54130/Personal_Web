@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/人工智慧/向後運算.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向後運算"
-            }
-          },
-          {
-            "id": "4d83421d517ade13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/My_Post.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My_Post"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,9 +155,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4d83421d517ade13",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "index.md",
+    "Content/Music_I_Listen.md",
+    "Content/Daily_Capture/Daily_Capture.md",
+    "Content/Daily_Capture/2025m10",
+    "Content/Daily_Capture",
+    "Content/My_Post.md",
     "Content/人工智慧/向後運算.md",
     "Content/人工智慧/sigmoid_微分.md",
     "Content/人工智慧/向前運算.md",
@@ -182,7 +172,6 @@
     "Content/人工智慧/人工智慧簡史.md",
     "Content/人工智慧/機器學習與深度學習.md",
     "Content/Topic_science.md",
-    "Content/Music_I_Listen.md",
     "Content/Game/Game_Diary.md",
     "Content/主題_筆記力/Topic_Noting.md",
     "Content/Focus.md",
@@ -196,9 +185,6 @@
     "Note/人工智慧/MLP_and_validation.md",
     "Note/人工智慧/訓練模型的步驟.md",
     "Note/人工智慧/主題_人工智慧.md",
-    "Note/人工智慧/向後運算.md",
-    "Note/自動控制/梅森公式.md",
-    "Note/梅森公式例題.md",
     "梅森公式例題1.png",
     "部分分式",
     "Note/自動控制"

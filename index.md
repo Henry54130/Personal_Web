@@ -8,6 +8,7 @@ title: Homepage
 - [Focus](Content/Focus.md)
 - [Game Diary](Content/Game/Game_Diary.md)
 - [My Post](Content/My_Post.md)
+- [Daily Capture](Content/Daily_Capture/Daily_Capture.md)
 
 <footer>
   <p>

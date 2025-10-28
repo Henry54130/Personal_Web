@@ -1,0 +1,1 @@
+![](20251028_Daily_Capture.jpg)
