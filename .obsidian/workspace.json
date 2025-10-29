@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
-                "mode": "preview",
+                "file": "Content/Music_I_Listen.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20251029_Daily_Capture"
+              "title": "Music_I_Listen"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Content/Daily_Capture/Daily_Capture.md",
     "index.md",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
+    "Content/Daily_Capture/Daily_Capture.md",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.jpg",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.jpg",
