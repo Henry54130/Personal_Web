@@ -5,6 +5,7 @@ title: Issue
 
 🔗 [7 成員工是慢飛天使！日企曝最大化生產力的關鍵：別讓員工適應流程](https://www.managertoday.com.tw/articles/view/69276?)  
 🔗 [Life Vest Inside Kindness Boomerang "One Day”](https://www.youtube.com/watch?v=nwAYpLVyeFU)
+🔗 [光之塔](https://youtu.be/MQzldrC870s?si=IU6TT35Z185WUdfM)
 
 ---
 #媒體素養 #注意力 #數位生活
