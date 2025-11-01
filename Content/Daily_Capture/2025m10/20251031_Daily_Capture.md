@@ -5,5 +5,5 @@ tags:
   - Daily_Capture
   - 攝影
 ---
-地點：台大醉月湖附近
+地點：台大博雅
 ![](20251031_Daily_Capture.jpg)
