@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Music_I_Listen.md",
+                "file": "Content/Daily_Capture/2025m10/20251030_Daily_Capture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music_I_Listen"
+              "title": "20251030_Daily_Capture"
             }
           }
         ]
@@ -172,18 +172,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "index.md",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
-    "Content/Daily_Capture/Daily_Capture.md",
+    "Content/Daily_Capture/2025m10/20251031_Daily_Capture.md",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
+    "Content/Daily_Capture/2025m10/20251030_Daily_Capture.md",
+    "Content/Daily_Capture/2025m10/20251031_Daily_Capture.jpg",
+    "Content/My_Post.md",
+    "Content/Topic_science.md",
+    "Content/Music_I_Listen.md",
+    "Content/Daily_Capture/Daily_Capture.md",
+    "index.md",
+    "_Data.md",
+    "Content/主題_心理學/Topic_Emotion&Psychology.md",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.jpg",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.jpg",
     "工程中/主題_半導體元件物理.md",
     "工程中/隨手拍.md",
     "Content/Game/Game_Diary.md",
     "Content/Game/War_Robot_recording.md",
-    "Content/My_Post.md",
-    "Content/Topic_science.md",
     "Content/電路電子/電路學.md",
     "Content/電路電子/迴路電流法.md",
     "Content/電路電子/節點電壓法.md",
@@ -191,14 +197,9 @@
     "Content/自動控制/自動控制.md",
     "Content/Issue.md",
     "Content/主題_筆記力/Topic_Noting.md",
-    "Content/Music_I_Listen.md",
-    "_Data.md",
     "工程中/預計要加.md",
     "Content/Game/Game_diary_LifeAfter.md",
     "Content/主題_筆記力/獨家筆記步驟概述.md",
-    "工程中/推薦文章.md",
-    "Recording/近水樓台.md",
-    "Note/管理學.md",
     "工程中",
     "Content/主題_筆記力",
     "Content/Recording",
@@ -210,7 +211,6 @@
     "Recording/PXL_20251011_090924479.jpg",
     "Recording/PXL_20251011_090901399.jpg",
     "Content/人工智慧",
-    "Content/人工智慧/向後計算部分圖示.jpeg.png",
     "自動控制/laplace",
     "_theme/cayman_support_letax/LICENSE",
     "_theme/cayman_support_letax/jekyll-theme-cayman.gemspec",

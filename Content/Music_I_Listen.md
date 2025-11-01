@@ -7,4 +7,4 @@ title: Music
 
 ## Albums
 - [IU 5th Album 'LILAC'](https://music.youtube.com/playlist?list=OLAK5uy_nRb467jR73IXKybwzw22_rTYIJ808x4Yc&si=Rd67fpulsfB9Xpec)
-- [IU - Growing Up](https://music.youtube.com/playlist?list=OLAK5uy_noqiSNX4m_UUs9W67ELR_8nxWH3hPvtdQ&si=lFA-qnts7-ALKe31)
+- [IU Album 'Growing Up'](https://music.youtube.com/playlist?list=OLAK5uy_noqiSNX4m_UUs9W67ELR_8nxWH3hPvtdQ&si=lFA-qnts7-ALKe31)
