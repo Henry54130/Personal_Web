@@ -1,1 +1,0 @@
-[_config.yml](./_config.yml)
