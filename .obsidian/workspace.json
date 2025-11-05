@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "1241413d8bdcb217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/主題_心理學/合理化說法的分類.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "合理化說法的分類"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +170,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1241413d8bdcb217",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Content/主題_心理學/Topic_Emotion&Psychology.md",
-    "Content/主題_心理學/合理化說法的分類.md",
     "index.md",
+    "和平籃球館.jpg",
+    "Content/My_Post.md",
+    "Template/Template for Daily shot.md",
+    "Content/Daily_Capture/2025m11/20251103_Daily_Capture.md",
+    "Content/Daily_Capture/2025m11/陶朱隱園_正3.jpg",
+    "Content/Daily_Capture/2025m10/20251030_Daily_Capture.md",
+    "Content/Daily_Capture/2025m11",
+    "Content/Daily_Capture/2025m10/20251031_Daily_Capture.md",
+    "Template",
+    "Content/Daily_Capture/Daily_Capture.md",
+    "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
+    "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
+    "Content/主題_筆記力/獨家筆記步驟概述.md",
+    "Content/主題_心理學/合理化說法的分類.md",
+    "Content/主題_心理學/Topic_Emotion&Psychology.md",
     "Content/Topic_流體力學/Topic_Mechanic_of_fluid.md",
     "Content/Topic_流體力學/雷諾數.md",
     "Content/Topic_science.md",
@@ -199,24 +197,14 @@
     "_Data.md",
     "Content/Focus.md",
     "Content/Music_I_Listen.md",
-    "Content/My_Post.md",
     "Content/Topic_流體力學",
-    "Content/Daily_Capture/2025m10/20251030_Daily_Capture.md",
-    "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
-    "Content/Daily_Capture/2025m10/20251031_Daily_Capture.md",
-    "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
     "Content/Daily_Capture/2025m10/20251031_Daily_Capture.jpg",
-    "Content/Daily_Capture/Daily_Capture.md",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.jpg",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.jpg",
     "工程中/主題_半導體元件物理.md",
     "工程中/隨手拍.md",
     "Content/Game/Game_Diary.md",
     "Content/Game/War_Robot_recording.md",
-    "Content/電路電子/電路學.md",
-    "Content/電路電子/迴路電流法.md",
-    "Content/電路電子/節點電壓法.md",
-    "Content/人工智慧/主題_人工智慧.md",
     "工程中",
     "Content/主題_筆記力",
     "Content/Recording",
@@ -225,13 +213,9 @@
     "Recording/PXL_20251011_093613180.jpg",
     "Recording/PXL_20251011_093624920.jpg",
     "Recording/PXL_20251011_090931537.jpg",
-    "Recording/PXL_20251011_090924479.jpg",
-    "Recording/PXL_20251011_090901399.jpg",
     "Content/人工智慧",
     "自動控制/laplace",
     "_theme/cayman_support_letax/LICENSE",
-    "_theme/cayman_support_letax/jekyll-theme-cayman.gemspec",
-    "_theme/cayman_support_letax/Gemfile",
-    "_theme/cayman_support_letax/_config.yml"
+    "_theme/cayman_support_letax/jekyll-theme-cayman.gemspec"
   ]
 }
