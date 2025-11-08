@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/系列_極簡數位生活.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系列_極簡數位生活"
+              "title": "index"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "WIP/系列_數位生活.md",
     "index.md",
-    "WIP/系列_極簡數位生活.md",
     "WIP",
     "Content/Else.md",
     "Content/Daily_Capture/Series_Daily_Capture.md",
