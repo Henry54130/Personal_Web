@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Daily_Capture/2025m11/20251108_Daily_Capture.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20251108_Daily_Capture"
+              "title": "index"
             }
           }
         ]
@@ -172,13 +172,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "index.md",
     "Content/Daily_Capture/Series_Daily_Capture.md",
+    "Content/Daily_Capture/2025m11/20251115_Daily_Capture.md",
+    "Content/Daily_Capture/2025m11/20251108_Daily_Capture.md",
     "Content/Daily_Capture/2025m11/20251103_Daily_Capture.md",
     "Content/Daily_Capture/2025m11/20251105_Daily_Capture.md",
     "Content/Daily_Capture/2025m11/20251107_Daily_Capture.md",
-    "index.md",
     "Content/Daily_Capture/2025m11/20251108景美橋.jpg",
-    "Content/Daily_Capture/2025m11/20251108_Daily_Capture.md",
     "WIP/系列_數位生活.md",
     "WIP",
     "Content/Else.md",
@@ -203,7 +204,6 @@
     "Content/Daily_Capture/2025m10/20251031_Daily_Capture.md",
     "Template",
     "Content/Daily_Capture/2025m10/20251028_Daily_Capture.md",
-    "Content/Daily_Capture/2025m10/20251029_Daily_Capture.md",
     "Content/Topic_流體力學",
     "Content/Daily_Capture/2025m10/20251031_Daily_Capture.jpg",
     "Content/Daily_Capture/2025m10/20251029_Daily_Capture.jpg",
