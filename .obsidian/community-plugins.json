@@ -1,4 +1,5 @@
 [
   "homepage",
-  "update-relative-links"
+  "update-relative-links",
+  "obsidian-linter"
 ]
