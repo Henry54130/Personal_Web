@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Content/Daily_Capture/Series_Daily_Capture.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Series_Daily_Capture"
             }
           }
         ]
@@ -174,6 +174,9 @@
   "lastOpenFiles": [
     "index.md",
     "Content/Daily_Capture/Series_Daily_Capture.md",
+    "Content/Else.md",
+    "Content/Music_I_Listen.md",
+    "Content/Science_Notes.md",
     "Content/Daily_Capture/2025m11/20251115_Daily_Capture.md",
     "Content/Daily_Capture/2025m11/20251108_Daily_Capture.md",
     "Content/Daily_Capture/2025m11/20251103_Daily_Capture.md",
@@ -182,13 +185,10 @@
     "Content/Daily_Capture/2025m11/20251108景美橋.jpg",
     "WIP/系列_數位生活.md",
     "WIP",
-    "Content/Else.md",
-    "Content/Science_Notes.md",
     "Content/電路電子/電路及電子.md",
     "Content/Topic_流體力學/Topic_Mechanic_of_fluid.md",
     "Content/Topic_流體力學/雷諾數.md",
     "Content/Topic_流體力學/牛頓黏性定律.md",
-    "Content/Music_I_Listen.md",
     "Content/Focus.md",
     "Content/主題_心理學/與焦慮共舞.md",
     "Content/系列_生活哲學及數位極簡.md",
