@@ -3,7 +3,7 @@ title: Homepage
 ---
  Here're portals ～  
  
-- [Music I Listen](Music_I_Listen.md)
+- [Music I Listen](Content/Music_I_Listen.md)
 - [Topic Science](Science_Notes.md)
 - [Topic Noting](Noting_Power.md)
 - [Emotion&Psychology](Emotion&Psychology.md)
