@@ -4,13 +4,13 @@ title: Homepage
  Here're portals ～  
  
 - [Music I Listen](Content/Music_I_Listen.md)
-- [Topic Science](Content/Science_Notes.md)
-- [Noting_Power](Content/主題_筆記力/Noting_Power.md)
-- [Emotion&Psychology](Content/主題_心理學/Emotion&Psychology.md)
+- [Topic Science](Content/Science/Science_Notes.md)
+- [Noting_Power](Content/Noting/Noting_Power.md)
+- [0_MOC_Emotion&Psychology](Content/Psychology/0_MOC_Emotion&Psychology.md)
 - [Game Diary](Content/Game/Game_Diary.md)
 - [Daily Capture](Content/Daily_Capture/Series_Daily_Capture.md)
 - [Focus](Content/Focus.md)
-- [Series_digital&life](Content/Series_digital&life.md)
+- [Series_digital&life](Content/Digital-life/Series_digital&life.md)
 - [Else](Content/Else.md)
 
 <footer>
