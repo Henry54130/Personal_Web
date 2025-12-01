@@ -4,6 +4,7 @@ description: Save the awesome moment today !
 ---
 
 ## 2025 November
+- [20251129_Daily_Capture](2025m11/20251129_Daily_Capture.md)
 - [20251115_Daily_Capture](2025m11/20251115_Daily_Capture.md)
 - [20251114_Daily_Capture](2025m11/20251114_Daily_Capture.md)
 - [20251108_Daily_Capture](2025m11/20251108_Daily_Capture.md)
