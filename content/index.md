@@ -3,7 +3,7 @@ title: Homepage
 ---
  Here're portals ～  
 ## Life Recording
-- [Music I Listen](Music_I_Listen)
+- [Music I Listen](Content/Music_I_Listen)
 - [Game Diary](Content/Game/Game_Diary.md)
 - [Daily Capture](Content/Daily_Capture/Series_Daily_Capture.md)
 - [Focus](Content/Focus.md)
