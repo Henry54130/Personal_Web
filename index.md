@@ -9,8 +9,8 @@ title: Homepage
 - [Focus](Content/Focus.md)
 ## Content
 - [Topic Science](Content/Science/Science_Notes.md)
-- [Noting](Noting.md)
-- [Emotion&Psychology](Emotion&Psychology.md)
+- [Noting](Content/Noting/Noting.md)
+- [Emotion&Psychology](Content/Psychology/Emotion&Psychology.md)
 - [Series_digital&life](Content/Digital-life/Series_digital&life.md)
 - [Else](Content/Else.md)
 
