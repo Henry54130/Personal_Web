@@ -14,10 +14,4 @@ title: Homepage
 - [Series_digital&life](Content/Digital-life/Series_digital&life.md)
 - [Else](Content/Else.md)
 
-<footer>
-  <p>
-    <em>
-    Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a> by GitHub, MIT License. Modified by Henry54130.
-    </em>
-  </p>
-</footer>
+
