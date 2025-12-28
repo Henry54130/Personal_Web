@@ -2,6 +2,6 @@
 title: Game Diary
 ---
 
-- [Lifeafter](Lifeafte.md)
+- [Lifeafter](Lifeafter/Lifeafter.md)
 - [War Robot](War-Robot.md)
 
