@@ -7,9 +7,6 @@ tags:
 date created: 2025-11-30 10:12:44
 date modified: 2025-12-02 17:30:33
 ---
- #極簡  
-🔗 [什麼！杯子也是種哲學？](https://www.threads.com/@read_i_fish/post/DLhPhXqpfDF?xmt=AQF0ht9nPMPWCetllzd1QjWAkBXJdpIwf5os2iiWsmTGZA) on thread
-
 [[什麼！杯子也是種哲學？]]
 
  #社交 #生活態度  
