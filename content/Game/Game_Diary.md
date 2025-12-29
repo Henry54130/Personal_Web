@@ -3,5 +3,5 @@ title: Game Diary
 ---
 
 - [life After](life-after.md)
-- [War Robot](War-Robot.md)
+- [War Robot](75_Life-Recording/Game/War-robot.md)
 

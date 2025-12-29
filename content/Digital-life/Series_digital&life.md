@@ -18,8 +18,8 @@ date modified: 2025-12-02 17:30:33
  #友情 #生活態度  
 🔗[為什麼與朋友們見面比較好](https://www.threads.com/@read_i_fish/post/DHZmhbiS2Nj?xmt=AQF0rR5_Eb5fd3qt9vffP-GqrLdLzJi4LCV0hxCEbJVgDw) on thread
 
-🔗[捷運怎麼這麼吵](Post_捷運怎麼這麼吵/Web-Post_捷運怎麼這麼吵.md)
+🔗[捷運怎麼這麼吵](Web-Post_捷運怎麼這麼吵.md)
 
-🔗 [沒有Line的一週，我找回了什麼](Web-Post_沒有Line的一週，我找回了什麼)
+🔗 [沒有Line的一週，我找回了什麼](Web-Post_沒有Line的一週，我找回了什麼.md)
 
 [[quartz 數位花園：快速配置與發布指南]]
