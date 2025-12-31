@@ -1,3 +1,30 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* 瀑布流容器 */
+.waterfall-container {
+    column-count: 3; /* 預設 3 欄 */
+    column-gap: 15px;
+    padding: 10px;
+}
+
+/* 針對不同螢幕寬度調整欄數 */
+@media (max-width: 900px) { .waterfall-container { column-count: 2; } }
+@media (max-width: 600px) { .waterfall-container { column-count: 1; } }
+
+/* 卡片樣式 */
+.note-card {
+    break-inside: avoid; /* 防止卡片被切斷 */
+    margin-bottom: 15px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    transition: transform 0.2s;
+}
+
+.note-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
