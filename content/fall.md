@@ -1,93 +1,82 @@
 ---  
-title: 我的筆記瀑布流  
+title: 我的筆記瀑布流 (iPad 偵錯版)  
 ---  
   
-<script type="module" src="https://unpkg.com/@pyscript/core"></script>  
-<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css">  
+<link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />  
+<style>  
+    .debug-log { background: #1e1e1e; color: #00ff00; padding: 10px; font-family: monospace; font-size: 12px; border-radius: 5px; margin-bottom: 20px; white-space: pre-wrap; }  
+    .note-card { border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 8px; }  
+</style>  
+  
+<div id="debug-console" class="debug-log">🔍 系統狀態：等待 PyScript 初始化...</div>  
   
 <div id="waterfall-output" class="waterfall-container">  
-    正在初始化 PyScript 環境...  
-</div>  
+    </div>  
+  
+<script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>  
   
 <script type="py">  
 import json  
 import asyncio  
+import sys  
 from pyscript import document  
 from pyodide.http import pyfetch  
   
-# ==========================================  
-# 1. 篩選條件設定區  
-# ==========================================  
-FILTER_TAGS = ["精選"]    
-FILTER_FOLDER = ""        
-EXCLUDE_LIST = ["index", "404", "tags"]  
-MAX_DESCRIPTION_LENGTH = 100  
+# --- 篩選條件區 ---  
+FILTER_TAGS = ["精選"]  
+EXCLUDE_LIST = ["index", "404"]  
   
-# ==========================================  
-# 2. 核心邏輯區 (強化偵錯版)  
-# ==========================================  
+# --- 自定義記錄器 (讓你在 iPad 畫面上看到報錯) ---  
+def log(message):  
+    console_div = document.querySelector("#debug-console")  
+    console_div.innerHTML += f"\n> {message}"  
   
 async def create_waterfall():  
-    container = document.querySelector("#waterfall-output")  
+    output = document.querySelector("#waterfall-output")  
+    log("Python 引擎已啟動")  
       
-    # --- 步驟 1: 檢查檔案讀取 ---  
-    container.innerHTML = "正在抓取 contentIndex.json..."  
     try:  
-        # 嘗試讀取檔案，加上 cache: "no-cache" 避免抓到舊檔  
+        log("正在抓取 contentIndex.json...")  
+        # 增加 cache="no-cache" 確保 iPad 不會讀到舊資料  
         response = await pyfetch("contentIndex.json", cache="no-cache")  
           
         if not response.ok:  
-            container.innerHTML = f"❌ 錯誤：找不到 contentIndex.json (狀態碼: {response.status})<br>請確認檔案是否在 Quartz 的根目錄。"  
+            log(f"❌ 讀取失敗: HTTP {response.status}")  
             return  
               
         data = await response.json()  
-        container.innerHTML = f"✅ 成功讀取 JSON，共有 {len(data)} 筆資料，正在篩選..."  
-          
-    except Exception as e:  
-        container.innerHTML = f"❌ 讀取過程發生崩潰: {str(e)}<br>建議按 F12 檢查 Console 報錯。"  
-        return  
+        log(f"✅ 成功取得資料，共 {len(data)} 筆")  
   
-    # --- 步驟 2: 處理資料 ---  
-    html_segments = []  
+        html_segments = []  
+        for path, info in data.items():  
+            # 排除邏輯  
+            if path == "" or any(ex in path for ex in EXCLUDE_LIST):  
+                continue  
+              
+            tags = info.get("tags", [])  
+            title = info.get("title", "無標題")  
   
-    for path, info in data.items():  
-        # 排除邏輯  
-        if path == "" or any(ex in path for ex in EXCLUDE_LIST):  
-            continue  
-          
-        if FILTER_FOLDER and not path.startswith(FILTER_FOLDER):  
-            continue  
-  
-        note_tags = info.get("tags", [])  
-        title = info.get("title", "無標題")  
-        description = info.get("description", "")  
-  
-        if FILTER_TAGS:  
-            if not any(tag in note_tags for tag in FILTER_TAGS):  
+            # 標籤過濾  
+            if FILTER_TAGS and not any(t in tags for t in FILTER_TAGS):  
                 continue  
   
-        if len(description) > MAX_DESCRIPTION_LENGTH:  
-            description = description[:MAX_DESCRIPTION_LENGTH] + "..."  
-              
-        card_html = f"""  
-        <div class="note-card">  
-            <a href="./{path}">  
-                <div class="card-content">  
-                    <h3>{title}</h3>  
-                    <p>{description}</p>  
-                </div>  
-            </a>  
-        </div>  
-        """  
-        html_segments.append(card_html)  
+            card = f"""  
+            <div class="note-card">  
+                <a href="./{path}"><h3>{title}</h3></a>  
+            </div>  
+            """  
+            html_segments.append(card)  
   
-    # --- 步驟 3: 最後渲染 ---  
-    if html_segments:  
-        container.innerHTML = "\n\n".join(html_segments)  
-    else:  
-        container.innerHTML = f"⚠️ 讀取成功，但沒有符合篩選條件 (Tag: {FILTER_TAGS}) 的筆記。"  
+        if html_segments:  
+            output.innerHTML = "".join(html_segments)  
+            log("✨ 渲染完成")  
+        else:  
+            output.innerHTML = "沒有符合篩選條件的筆記。"  
+            log("⚠️ 篩選後無結果")  
   
-# 啟動  
+    except Exception as e:  
+        log(f"🔥 發生崩潰: {str(e)}")  
+  
+# 啟動非同步執行  
 asyncio.ensure_future(create_waterfall())  
-  
 </script>  
