@@ -3,7 +3,7 @@ title: 我的筆記瀑布流 (iPad 優化版)
 ---  
   
 <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />  
-<script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>  
+<script type="module" src="https://pyscript.net/releases/2024.1.1/core.js" ></script>  
   
 <style>  
     .status-box { background: #222; color: #ffca28; padding: 10px; border-radius: 5px; font-family: monospace; margin-bottom: 10px; border: 1px solid #444; }  
