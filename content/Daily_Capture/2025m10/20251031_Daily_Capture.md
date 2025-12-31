@@ -6,4 +6,4 @@ tags:
   - 攝影
 ---
 地點：台大博雅
-![](20251031_Daily_Capture.jpg)
+![[20251031_Daily_Capture.jpg]]

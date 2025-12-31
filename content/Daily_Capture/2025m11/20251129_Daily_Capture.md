@@ -11,6 +11,4 @@ aliases:
   - 華南銀行 公館分行樓上
 ---
 地點：華南銀行 公館分行樓上
-![20251129_Daily_Capture_attachment.jpg](20251129_Daily_Capture_attachment.jpg)
-
-back to [Series_Daily_Capture](../Series_Daily_Capture.md)
+![[20251129_Daily_Capture_attachment.jpg]]

@@ -5,4 +5,4 @@ tags:
   - Daily_Capture
   - 攝影
 ---
-![](20251029_Daily_Capture.jpg)
+![[20251029_Daily_Capture.jpg]]

@@ -114,7 +114,7 @@ Here's how to add a custom domain to your GitHub pages deployment.
 
 ![[dns records.png]]_The above shows a screenshot of Google Domains configured for both `jzhao.xyz` (an apex domain) and `quartz.jzhao.xyz` (a subdomain)._
 
-See the [GitHub documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) for more detail about how to setup your own custom domain with GitHub Pages.
+See the [[https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain]] for more detail about how to setup your own custom domain with GitHub Pages.
 
 > [!question] Why aren't my changes showing up?
 > There could be many different reasons why your changes aren't showing up but the most likely reason is that you forgot to push your changes to GitHub.

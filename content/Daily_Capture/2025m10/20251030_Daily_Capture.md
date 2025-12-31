@@ -6,4 +6,4 @@ tags:
   - 攝影
 ---
 地點：台電大樓站2號出口
-![](20251030_Daily_Capture.jpg)
+![[20251030_Daily_Capture.jpg]]

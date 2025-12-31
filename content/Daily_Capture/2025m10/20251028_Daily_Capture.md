@@ -9,4 +9,4 @@ description: 這是今晚的學二舍
 
 
 
-![](20251028_Daily_Capture.jpg)
+![[20251028_Daily_Capture.jpg]]

@@ -11,4 +11,4 @@ tags:
 | 並聯  | $$G_{eq}(s) = G_1(s) + G_2(s)$$            |
 | 負反饋 | $$G_{eq}(s) = \frac{G(s)}{1 + G(s) H(s)}$$ |
   
-Back to [自動控制](自動控制.md)
+Back to [[自動控制.md]]

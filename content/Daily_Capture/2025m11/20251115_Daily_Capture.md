@@ -6,4 +6,4 @@ tags:
   - 攝影
 ---
 地點：碧潭
-![](20251115_Daily_Capture_碧橋.jpg)
+![[20251115_Daily_Capture_碧橋.jpg]]
