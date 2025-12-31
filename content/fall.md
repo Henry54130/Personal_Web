@@ -2,8 +2,9 @@
 title: 我的筆記瀑布流
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pyscript/core/dist/core.css">
-<script type="module" src="https://cdn.jsdelivr.net/npm/@pyscript/core/dist/core.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css">
+<script type="module" src="https://unpkg.com/@pyscript/core/dist/core.js"></script>
+
 
 
 
