@@ -14,7 +14,7 @@ title: 我的筆記瀑布流
 
 <div id="waterfall-output" class="waterfall-container">
     正在從 contentIndex.json 載入數據...
-</div>
+</div>  
 
 <script type="py">
 import json
