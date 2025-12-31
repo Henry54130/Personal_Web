@@ -3,12 +3,12 @@ title: 我的筆記瀑布流
 ---  
   
 <script type="module" src="https://unpkg.com/@pyscript/core"  ></script>  
-<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css">  
+<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css" >  
   
-<div id="waterfall-output" class="waterfall-container">  
+<div id="waterfall-output" class="waterfall-container" >  
     正在載入筆記牆...  
 </div>  
-  
+
 <script type="py">  
 import json  
 import asyncio  
@@ -21,7 +21,7 @@ async def create_waterfall():
     # 1. 取得 DOM 容器與抓取數據  
     # ---------------------------------------------------------  
       
-    container = document.querySelector("#waterfall-output")  
+    container = document.querySelector("#daily_capture")  
       
     try:  
         # 抓取 Quartz 自動生成的索引檔  
