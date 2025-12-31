@@ -2,8 +2,8 @@
 title: 我的筆記瀑布流
 ---
 
-<script type="module" src="https://unpkg.com/@pyscript/core"></script>
-<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css">
+<script type="module" src="https://unpkg.com/@pyscript/core" ></script>
+<link rel="stylesheet" href="https://unpkg.com/@pyscript/core/dist/core.css" >
 
 <div id="waterfall-output" class="waterfall-container">
     正在載入筆記牆...
