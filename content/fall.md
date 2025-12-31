@@ -24,7 +24,7 @@ from pyodide.http import pyfetch
 # ==========================================  
 # 篩選條件設定區  
 # ==========================================  
-FILTER_TAGS = ["精選"]    
+FILTER_TAGS = [""]    
 FILTER_FOLDER = ""        
 EXCLUDE_LIST = ["index", "404"]  
   
