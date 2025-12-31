@@ -20,7 +20,7 @@ from pyodide.http import pyfetch
 # ==========================================  
   
 # [標籤篩選]：填入想顯示的標籤名稱，例如 ["Python", "生活"]。若不篩選請設為 []  
-FILTER_TAGS = ["daily-capture"]    
+FILTER_TAGS = ["Daily_Capture"]    
   
 # [路徑篩選]：填入想顯示的資料夾路徑，例如 "posts/"。若不篩選請設為 ""  
 FILTER_FOLDER = ""        
