@@ -5,7 +5,7 @@ title: Homepage
 ## Life Recording
 - [[Music_I_Listen]]
 - [[Game_Diary]]
-- [[Series_Daily_Capture]]
+- [[Series_Capture]]
 - [[Focus]]
 
 ## Content
