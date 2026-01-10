@@ -5,5 +5,5 @@ date modified: 2025-12-31 05-53-30
 ---
 
 - [[web_life-after|Life After]]
-- [[Web_war-robot|War Robot]]
+- [[war-robot|War Robot]]
 
