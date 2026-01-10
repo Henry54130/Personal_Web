@@ -1,17 +1,19 @@
 ---
 title: Homepage
+description: welcome to Henry’s Obsidian World !
 ---
+> 這裡是我寫的一些筆記～歡迎大家觀看！如果需要引用請附上來源哦！
+ 
  Here're portals ～  
-## Life Recording
+## Recordings or Works
 - [[Music_I_Listen]]
 - [[Game_Diary]]
-- [[Series_Capture]]
+- [[Capture]]
 - [[Focus]]
 
-## Content
-- [[Science_Notes]]
-- [[Noting]]
-- [[Emotion&Psychology]]
-- [[Series_digital&life]]
-- [[Else]]
+## Contents and Notes
+- [[web_Science|Science]]
+- [[Noting,Reading and Learning]]
+- [[Emotion&Psychology|情緒、心理學]]
+- [[Series_digital&life|簡單生活、數位生活]]
 

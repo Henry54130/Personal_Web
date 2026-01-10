@@ -65,7 +65,7 @@ This part of the configuration concerns anything that can affect the whole site.
 
 You can think of Quartz plugins as a series of transformations over content.
 
-![[quartz transform pipeline.png]]
+![[01_Publish2Github-Page/docs/attachments/quartz transform pipeline.png]]
 
 ```ts title="quartz.config.ts"
 plugins: {
