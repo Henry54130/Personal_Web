@@ -6,8 +6,8 @@ description: welcome to Henry’s Obsidian World !
  
  Here're portals ～  
 ## Recordings or Works
-- [[Music_I_Listen]]
-- [[Game_Diary]]
+- [[Music_I_Listen|Music]]
+- [[Game_Diary|Game]]
 - [[Capture]]
 - [[Focus]]
 
