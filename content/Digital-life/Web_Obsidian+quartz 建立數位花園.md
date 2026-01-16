@@ -1,5 +1,5 @@
 ---
-title: Quartz 數位花園：快速配置與發布指南
+title: Obsidian + quartz 建立數位花園
 aliases: []
 tags:
   - obsidian

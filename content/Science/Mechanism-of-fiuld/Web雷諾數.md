@@ -1,7 +1,7 @@
 ---
 title: Reynold Numbers
 tags:
-  - 黏性
+  - viscosity
   - 慣性
 ---
 

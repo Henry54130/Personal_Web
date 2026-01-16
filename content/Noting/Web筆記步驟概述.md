@@ -6,7 +6,7 @@ aliases:
   - 筆記方法
 tags:
   - 筆記
-  - 筆記流程
+  - noting
 link: 有感而發
 ---
 

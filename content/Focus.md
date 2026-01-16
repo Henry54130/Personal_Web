@@ -8,7 +8,7 @@ title: Issue
 🔗 [光之塔](https://youtu.be/MQzldrC870s?si=IU6TT35Z185WUdfM)
 
 ---
-#媒體素養 #注意力 #數位生活
+#媒體素養 #注意力 #digital-life
 
 🔗 [注意力不夠才會一直滑手機？這不是你的錯](https://blog.starrocket.io/posts/former-google-ethicist-tristan-harris-blames-technology-companies-for-cellphone-addiction/)  
 🔗 [從數位奴隸，到奪回你的自主人生](https://shosho.tw/blog/the-power-of-digital-minimalism-3-easy-steps/)  
@@ -21,11 +21,11 @@ title: Issue
 🔗 [核能電池](https://youtu.be/u3KrlhgpghQ)
 
 ---
-#副業 #自媒體  
+#副業 #self-media  
 
 🔗 [如何找到合適的副業目標](https://www.facebook.com/linhoun/posts/pfbid02xnzuLne4CAWafuaysX2fr3tt7nLoFYVcknrvofHgFsPs1dEYTDssvpgVzvferXX3l)
 
 ---
-#學習 #筆記 #上課  
+#learning #筆記 #上課  
 
 🔗 [怎麼知道課程、講座的重點呢？](https://www.facebook.com/chihua.wang.3/posts/pfbid0vmi2F7KAiUGywwdir2cjDehM3JpnfhBaSR6h1qmNyFsYUXNpLNf2GafHDT5FTAYSl)
