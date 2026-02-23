@@ -1,14 +1,15 @@
 ---
-date created: 2026-02-10 03-55-06
-date modified: 2026-02-11 08-36-52
+title: Syncthing (Windows & iOS) 同步教學
+aliases:
+  - Syncthing (Windows & iOS) 同步教學
 tags:
   - syncthing
   - windows
   - apple
   - ios
-aliases:
-  - Syncthing (Windows & iOS) 同步教學
-title: Syncthing (Windows & iOS) 同步教學
+date created: 2026-02-10 03-55-06
+date modified: 2026-02-22 06-11-06
+published: false
 ---
 ## 1. 下載與啟動
 

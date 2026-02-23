@@ -5,10 +5,10 @@ tags:
   - digital-life
   - file-management
   - photography
-date created: Tuesday, December 30th 2025, 9:28:24 pm
-date modified: Tuesday, December 30th 2025, 9:38:51 pm
+date created: 2025-12-30 09-28-24
+date modified: 2026-02-22 06-11-06
+published: false
 ---
-
 ## 🔍 核心困擾：資料夾的「單選題」困境
 
 當我們面對一個檔案（例如：一張「台中山景照片」）時，傳統資料夾強迫我們做出單一選擇：

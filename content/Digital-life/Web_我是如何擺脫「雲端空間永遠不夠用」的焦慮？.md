@@ -1,15 +1,14 @@
 ---
-date created: 2025-11-19 14:13:50
-date modified: 2025-11-27 16:23:18
 title: 我是如何擺脫「雲端空間永遠不夠用」的焦慮？
 tags:
   - digital-life
   - google
   - apple
   - canva
+date created: 2025-11-19 02-13-50
+date modified: 2026-02-22 06-11-06
+published: false
 ---
-
-
 > 一個簡單的思路轉變，幫我省下不必要的訂閱費，也找回了數位生活的主導權。
 
 最近在整理信用卡帳單時，我嚇了一跳：iCloud 、Google One... 這些林林總總的雲端服務加起來，每個月竟然也是一筆不小的開銷。

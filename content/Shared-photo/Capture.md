@@ -1,8 +1,9 @@
 ---
 title: Capture
-description: Save the awesome moment !
 date created: 2025-12-28 09-48-17
-date modified: 2026-01-01 11-42-53
+date modified: 2026-02-22 06-11-06
+description: Save the awesome moment !
+published: false
 ---
 ## 2026 January
 - [[20260101_101_還沒放煙火]]

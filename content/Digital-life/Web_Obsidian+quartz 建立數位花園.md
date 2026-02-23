@@ -7,10 +7,12 @@ tags:
   - self-media
   - personal-website
   - git
+date created: 2026-01-25 03-49-48
+date modified: 2026-02-22 06-11-06
 level: 1
-Essence:
+note:
+published: false
 ---
-
 # 💎 Quartz 數位花園：快速配置與發布指南
 
 紀錄了我從 Jekyll 遷移至 **Quartz v4** 的實戰經驗，特別是針對 **Node.js 22** 環境與 **GitHub Actions** 的正確配置。

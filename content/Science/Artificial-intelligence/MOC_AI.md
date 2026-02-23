@@ -2,6 +2,7 @@
 title: Artificial Intelligence
 date created: 2025-12-28 09-48-17
 date modified: 2025-12-31 07-01-26
+published: false
 ---
 - [[人工智慧簡史.md]]
 - [[最基本AI的功能分類.md]]

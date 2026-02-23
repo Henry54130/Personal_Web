@@ -1,10 +1,11 @@
 ---
-date created: 2025-02-19 12-48-00
-date modified: 2026-01-04 01-04-12
 title: 選課怎麼選？我們來battle
 tags:
   - 大學生活
   - course
+date created: 2025-02-19 12-48-00
+date modified: 2026-02-22 06-11-06
+published: false
 ---
 >20250219:又又又是選課時間，我訪問了數位朋友，歸納出以下筆記。
 

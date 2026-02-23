@@ -1,16 +1,16 @@
 ---
-date created: 2026-01-07 10-01-56
-date modified: 2026-01-07 10-03-45
+title: 不再責備自己
+aliases: []
 tags:
   - psychology
   - self-blame
   - emotion
-title: 不再責備自己
-aliases: []
+date created: 2026-01-07 10-01-56
+date modified: 2026-02-22 06-11-06
 level: 1
-Essence:
+note:
+published: false
 ---
-
 ## 如何不再責備自己
 把「應該」變成「如果能」，會將「憤怒」變成「悲傷」，而可以進一步思索改變的可能或接收無奈的現狀。
 ## 對自己的責備
