@@ -2,7 +2,7 @@
 title: Homepage
 date created: 2026-01-25 03-49-49
 date modified: 2026-02-22 06-11-06
-description: welcome to Henry’s Obsidian World !
+note: welcome to Henry’s Obsidian World !
 published: false
 ---
 > 這裡是我寫的一些筆記～歡迎大家觀看！如果需要引用請附上來源哦！

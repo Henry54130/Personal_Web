@@ -3,7 +3,7 @@ title: 捷運怎麼這麼吵
 tags: []
 date created: 2025-11-25 08-40-47
 date modified: 2026-02-22 06-11-06
-description: 對「數位泡泡」的洞察，讓我找回了內心的平靜
+note: 對「數位泡泡」的洞察，讓我找回了內心的平靜
 published: false
 ---
 你也許經歷過。

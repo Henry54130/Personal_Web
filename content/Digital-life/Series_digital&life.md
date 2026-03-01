@@ -4,8 +4,8 @@ tags:
   - minimal
   - digital-life
 date created: 2026-01-25 03-49-48
-date modified: 2026-02-23 05-25-45
-description:
+date modified: 2026-03-01 08-04-32
+note:
 published: false
 ---
 - [[短文-什麼！杯子也是種哲學？|🎯 杯子的簡單哲學：80/20 法則的應用]]
@@ -18,3 +18,4 @@ published: false
 - [[web_為什麼我使用obsidian 而非 notion|為什麼我使用obsidian 而非 notion]]
 - [[web_如何使用syncthing 同步wins及ios|Syncthing (Windows & iOS) 同步教學]]
 - [[2026我的數位自主程式推薦]]
+- [[When we use AI to tackle our emotion]]
