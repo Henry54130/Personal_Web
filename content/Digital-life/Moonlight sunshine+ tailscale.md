@@ -7,12 +7,12 @@ tags:
   - digital-life
   - game
 date created: 2026-01-21 10-19-10
-date modified: 2026-03-20 02-20-37
+date modified: 2026-03-20 02-46-01
 level: 1
 note:
 published: false
 ---
-有密碼，不能直接上傳筆記
+
 
 > [!abstract] 簡介
 > 出門在外時，利用 iPad 透過虛擬區網連回宿舍電腦，享受低延遲、高性能的體驗。
