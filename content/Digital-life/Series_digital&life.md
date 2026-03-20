@@ -4,7 +4,7 @@ tags:
   - minimal
   - digital-life
 date created: 2026-01-25 03-49-48
-date modified: 2026-03-01 08-04-32
+date modified: 2026-03-20 02-27-34
 note:
 published: false
 ---
@@ -19,3 +19,4 @@ published: false
 - [[web_如何使用syncthing 同步wins及ios|Syncthing (Windows & iOS) 同步教學]]
 - [[2026我的數位自主程式推薦]]
 - [[When we use AI to tackle our emotion]]
+- [[Moonlight sunshine+ tailscale]]
