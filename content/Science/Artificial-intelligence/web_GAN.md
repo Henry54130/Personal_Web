@@ -3,7 +3,7 @@ title:
   - 生成式對抗網路
 date created: 2026-01-25 03-49-48
 date modified: 2026-02-22 06-11-06
-published: false
+published: true
 ---
 分成生成器、判別器
 - 生成器：一直生假資料

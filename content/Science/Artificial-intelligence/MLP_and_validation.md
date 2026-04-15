@@ -1,12 +1,10 @@
 ---
 date created: 2026-01-25 03-49-48
-date modified: 2026-02-22 06-11-06
-published: false
+date modified: 2026-04-01 11-29-52
+published: true
 ---
-<<<<<<< HEAD
-=======
 
->>>>>>> aa01c35a3915d099bd947e57e01994f9a47200f2
+
 | 項目   | 驗證（Validation） | MLP Testing |
 | ---- | -------------- | ----------- |
 | 資料來源 | 訓練資料切分出的驗證集    | 完全未看過的測試集   |

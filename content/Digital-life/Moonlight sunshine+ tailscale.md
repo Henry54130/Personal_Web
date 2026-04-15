@@ -7,10 +7,10 @@ tags:
   - digital-life
   - game
 date created: 2026-01-21 10-19-10
-date modified: 2026-03-20 02-46-01
+date modified: 2026-03-23 08-52-53
 level: 1
 note:
-published: false
+published: true
 ---
 
 
