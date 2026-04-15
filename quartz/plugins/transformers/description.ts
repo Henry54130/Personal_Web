@@ -28,12 +28,11 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // --- 強化版讀取邏輯 ---
             // 直接從 file.data.frontmatter 強制轉型讀取
             const fm = file.data.frontmatter as Record<string, any> | undefined
             
             // 優先取 note，沒有才取 description
-            let frontMatterDescription: string | undefined = fm?.note ?? fm?.description
+            let frontMatterDescription: string | undefined = fm?.note || fm?.description
             
             let text = escapeHTML(toString(tree))
 
