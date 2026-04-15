@@ -28,21 +28,28 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // 1. 使用 as any 避開型別檢查，並優先取 note
-            let frontMatterDescription: string | undefined = (file.data.frontmatter as any)?.note ?? file.data.frontmatter?.description
+            // --- 強化版讀取邏輯 ---
+            // 直接從 file.data.frontmatter 強制轉型讀取
+            const fm = file.data.frontmatter as Record<string, any> | undefined
+            
+            // 優先取 note，沒有才取 description
+            let frontMatterDescription: string | undefined = fm?.note ?? fm?.description
+            
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {
-              // 2. 使用 ?. 確保安全調用 replace
-              frontMatterDescription = frontMatterDescription?.replace(
-                urlRegex,
-                "$<domain>" + "$<path>",
-              )
+              if (frontMatterDescription) {
+                frontMatterDescription = frontMatterDescription.replace(
+                  urlRegex,
+                  "$<domain>" + "$<path>",
+                )
+              }
               text = text.replace(urlRegex, "$<domain>" + "$<path>")
             }
 
             if (frontMatterDescription) {
-              file.data.description = frontMatterDescription
+              // 確保一定是字串
+              file.data.description = String(frontMatterDescription)
               file.data.text = text
               return
             }
