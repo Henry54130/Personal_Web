@@ -7,12 +7,12 @@ tags:
   - digital-life
   - game
 date created: 2026-01-21 10-19-10
-date modified: 2026-03-23 08-52-53
+date modified: 2026-04-15 02-39-59
 level: 1
 note:
 published: true
 ---
-
+延伸：[[Sunshine + iPad 虛擬延伸螢幕]]
 
 > [!abstract] 簡介
 > 出門在外時，利用 iPad 透過虛擬區網連回宿舍電腦，享受低延遲、高性能的體驗。
