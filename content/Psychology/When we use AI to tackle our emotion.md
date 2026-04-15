@@ -7,7 +7,7 @@ tags:
   - digital-life
   - emotion
 date created: 2026-03-01 06-44-04
-date modified: 2026-03-01 08-05-27
+date modified: 2026-04-15 02-46-33
 level: 7
 link:
 note: 使用AI作為情緒垃圾桶可能使我們陷入負面循環
@@ -56,3 +56,7 @@ graph LR
 ## 💡 總結
 
 AI 可以是很好的工具，但它缺乏人類靈魂中的「反擊力」。當我們感到痛苦時，AI 的溫柔順從反而可能變成推我們下懸崖的推手。**保持與真實世界的連結，才是維持心理韌性的關鍵。**
+
+
+## 參考
+- https://youtu.be/BHT-txCDIGU?si=M2IMXX2Ejn6xUYPT
