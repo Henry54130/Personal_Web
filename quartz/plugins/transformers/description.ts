@@ -28,29 +28,26 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // 直接從 file.data.frontmatter 強制轉型讀取
+            // 確保 frontmatter 存在
             const fm = file.data.frontmatter as Record<string, any> | undefined
             
-            // 優先取 note，沒有才取 description
-            let frontMatterDescription: string | undefined = fm?.note || fm?.description
+            // 1. 優先順序：note > description > 內文擷取
+            // 加上 .trim() 防止只有空格的狀況
+            let frontMatterDescription = fm?.note?.toString().trim() ?? fm?.description?.toString().trim()
             
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {
               if (frontMatterDescription) {
-                frontMatterDescription = frontMatterDescription.replace(
-                  urlRegex,
-                  "$<domain>" + "$<path>",
-                )
+                frontMatterDescription = frontMatterDescription.replace(urlRegex, "$<domain>$<path>")
               }
-              text = text.replace(urlRegex, "$<domain>" + "$<path>")
+              text = text.replace(urlRegex, "$<domain>$<path>")
             }
 
             if (frontMatterDescription) {
-              // 確保一定是字串
-              file.data.description = String(frontMatterDescription)
+              file.data.description = frontMatterDescription
               file.data.text = text
-              return
+              return // 這裡 return 是對的，代表直接用 frontmatter
             }
 
             // otherwise, use the text content
