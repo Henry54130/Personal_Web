@@ -1,13 +1,12 @@
 ---
 title: Homepage
 date created: 2026-01-25 03-49-49
-date modified: 2026-03-03 10-07-17
-note: welcome to Henry’s Obsidian World !
+date modified: 2026-04-15 04-18-04
+note: Welcome to Henry’s Obsidian World !
 published: true
 ---
-> 這裡是我寫的一些筆記～歡迎大家觀看！如果需要引用請附上來源哦！
- 
- Here're portals ～  
+[[README of Henry's Digital Garden|了解我的網站 !]]
+
 ## Recordings or Works
 - [[Music_I_Listen|Music]]
 - [[Game_Diary|Game]]
@@ -15,11 +14,9 @@ published: true
 - [[Focus]]
 
 ## Contents and Notes
-- [[web_Science|Science]]
+- [[web_Science]]
 - [[Noting,Reading and Learning]]
-- [[Emotion&Psychology|情緒、心理學]]
-- [[Series_digital&life|簡單生活、數位生活]]
-
+- [[Emotion&Psychology]]
+- [[Series_digital&life]]
 
 [![Support](https://img.shields.io/badge/贊助-請我喝杯咖啡-orange?style=for-the-badge)](https://portaly.cc/Henry54130)
-

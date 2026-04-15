@@ -28,57 +28,26 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // 確保 frontmatter 存在
-            const fm = file.data.frontmatter as Record<string, any> | undefined
+            const fm = file.data.frontmatter as any
             
-            // 1. 優先順序：note > description > 內文擷取
-            // 加上 .trim() 防止只有空格的狀況
-            let frontMatterDescription = fm?.note?.toString().trim() ?? fm?.description?.toString().trim()
+            // 優先抓取 note 或 description
+            const noteValue = fm?.note ?? fm?.Note ?? fm?.description ?? ""
             
+            // 處理 HTML 跳脫字元並取得內文 text (這是給 Search 搜尋功能用的，必須保留)
             let text = escapeHTML(toString(tree))
 
             if (opts.replaceExternalLinks) {
-              if (frontMatterDescription) {
-                frontMatterDescription = frontMatterDescription.replace(urlRegex, "$<domain>$<path>")
-              }
               text = text.replace(urlRegex, "$<domain>$<path>")
             }
 
-            if (frontMatterDescription) {
-              file.data.description = frontMatterDescription
-              file.data.text = text
-              return // 這裡 return 是對的，代表直接用 frontmatter
+            // 核心邏輯修改：有 note 才寫入 description，沒有就設為 undefined，不自動抓摘要
+            if (noteValue && String(noteValue).trim() !== "") {
+              file.data.description = String(noteValue).replace(urlRegex, "$<domain>$<path>")
+            } else {
+              file.data.description = undefined
             }
 
-            // otherwise, use the text content
-            const desc = text
-            const sentences = desc.replace(/\s+/g, " ").split(/\.\s/)
-            let finalDesc = ""
-            let sentenceIdx = 0
-
-            // Add full sentences until we exceed the guideline length
-            while (sentenceIdx < sentences.length) {
-              const sentence = sentences[sentenceIdx]
-              if (!sentence) break
-
-              const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
-              const nextLength = finalDesc.length + currentSentence.length + (finalDesc ? 1 : 0)
-
-              // Add the sentence if we're under the guideline length
-              // or if this is the first sentence (always include at least one)
-              if (nextLength <= opts.descriptionLength || sentenceIdx === 0) {
-                finalDesc += (finalDesc ? " " : "") + currentSentence
-                sentenceIdx++
-              } else {
-                break
-              }
-            }
-
-            // truncate to max length if necessary
-            file.data.description =
-              finalDesc.length > opts.maxDescriptionLength
-                ? finalDesc.slice(0, opts.maxDescriptionLength) + "..."
-                : finalDesc
+            // 寫入純文字供全文搜尋使用
             file.data.text = text
           }
         },
@@ -89,7 +58,7 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
 declare module "vfile" {
   interface DataMap {
-    description: string
+    description?: string
     text: string
   }
 }
