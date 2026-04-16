@@ -2,7 +2,7 @@
 title: Homepage
 date created: 2026-01-25 03-49-49
 date modified: 2026-04-15 04-18-04
-note: Welcome to Henry’s Obsidian World !
+note: Welcome to Henry’s Digital Garden !
 published: true
 ---
 >[!info]

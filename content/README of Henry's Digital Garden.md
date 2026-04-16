@@ -5,6 +5,7 @@ title: README of Henry's Digital Garden
 aliases: []
 tags:
   - quartz
+  - obsidian
 level: 1
 link:
 note:
