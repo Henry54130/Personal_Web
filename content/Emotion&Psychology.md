@@ -1,7 +1,7 @@
 ---
 date created: 2025-12-28 09-48-17
 date modified: 2026-03-01 08-04-18
-published: false
+published: true
 ---
 - [[嘗試與焦慮共舞]]
 - [[辨識「合理化」]]

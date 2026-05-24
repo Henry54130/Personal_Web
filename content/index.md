@@ -1,7 +1,7 @@
 ---
 title: Homepage
 date created: 2026-01-25 03-49-49
-date modified: 2026-04-15 04-18-04
+date modified: 2026-05-24 10-21-19
 note: Welcome to Henry’s Digital Garden !
 published: true
 ---
@@ -16,9 +16,9 @@ published: true
 - [[Focus|了解我關注的議題]]
 
 ## Contents and Notes
-- [[web_Science|有關「科學」]]
-- [[Noting,Reading and Learning|有關「筆記、學習、閱讀」]]
+- [[MOC_Science|有關「科學」]]
+- [[MOC_Noting_Reading_Learning|有關「筆記、學習、閱讀」]]
 - [[Emotion&Psychology|有關心理學、社會]]
-- [[Series_digital&life|有關生活方式、數位工具]]
+- [[MOC_Digital_Life|有關生活方式、數位工具]]
 
 [![Support](https://img.shields.io/badge/贊助-請我喝杯咖啡-orange?style=for-the-badge)](https://portaly.cc/Henry54130)

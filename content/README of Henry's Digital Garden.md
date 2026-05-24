@@ -9,7 +9,7 @@ tags:
 level: 1
 link:
 note:
-published: false
+published: true
 ---
 
 歡迎來到我的數位大腦備份區！這裡是我在網路上的一方小天地，記錄了我的生活軌跡、學習筆記以及各種思考的過程。
