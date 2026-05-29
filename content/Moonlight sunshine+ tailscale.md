@@ -61,3 +61,4 @@ published: true
 
 ## reference 
 - https://ivonblog.com/posts/windows-sunshine-remote-gaming/
+- [[Sunshine + iPad 虛擬延伸螢幕]]
