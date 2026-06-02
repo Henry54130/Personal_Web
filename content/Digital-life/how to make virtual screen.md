@@ -1,6 +1,7 @@
 ---
 title: IddSampleDriver 虛擬螢幕設置指南
-aliases: []
+aliases:
+  - 使用sunshine、moonlight時，不想讓電腦螢幕亮起只想亮遠端螢幕！！
 tags:
   - digital-life
 date created: 2026-01-23 05-47-55
@@ -51,4 +52,5 @@ published: true
 2. 預期會看到一個新的虛擬顯示器。
 3. 點選該顯示器，在「顯示解析度」下拉選單中，選擇你在 option.txt 設定的數值。
 4. 使用平板端的遠端桌面 App（如 Sunshine+Moonlight 或 Weylus）連線至此虛擬螢幕。
+5. 如果希望電腦主螢幕不要亮，便只需要wins+p設定"只投影至第二螢幕"即可
 

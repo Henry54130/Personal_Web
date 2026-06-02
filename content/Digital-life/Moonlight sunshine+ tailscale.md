@@ -12,7 +12,7 @@ level: 1
 note:
 published: true
 ---
-延伸：[[Sunshine + iPad 虛擬延伸螢幕]]
+延伸：[[Sunshine + iPad 虛擬延伸螢幕]] 
 
 > [!abstract] 簡介
 > 出門在外時，利用 iPad 透過虛擬區網連回宿舍電腦，享受低延遲、高性能的體驗。
@@ -57,8 +57,7 @@ published: true
 
 - [ ] **電源設定**：`控制台` -> `電源選項` -> `變更電腦睡眠時間` -> **「使電腦進入睡眠狀態」設為「從不」**
 - [ ] **防火牆**：若連不上，請確保 Windows 防火牆允許 `Sunshine.exe` 通過。
-- [ ] 因為電腦螢幕蓋起來時會連不上(就算設定'do nothing'，螢幕暗掉就無法連接)，所以參考 [[how to make virtual screen]] 來使用虛擬營幕解決
+- [ ] 因為電腦螢幕蓋起來時會連不上(就算設定'do nothing'，螢幕暗掉就無法連接)，所以參考 [[how to make virtual screen]] 來使用虛擬營幕解決，同時透過快捷鍵讓自己遠端時，電腦主螢幕不會亮(保護隱私)
 
 ## reference 
 - https://ivonblog.com/posts/windows-sunshine-remote-gaming/
-- [[Sunshine + iPad 虛擬延伸螢幕]]
