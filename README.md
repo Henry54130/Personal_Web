@@ -1,1 +1,1 @@
-「歡迎來到我的數位花園原始碼庫！真正的網站請點擊 [這裡](https://henry54130.github.io/Personal_Web/)   。本站由 Quartz 驅動。」
+「歡迎來到我的數位花園原始碼！真正的網站請點擊 [這裡](https://henry54130.github.io/Personal_Web/)   。本站由 Quartz 驅動。」
