@@ -1,3 +1,6 @@
 node_modules
 public
 quartz/.quartz-cache
+auto_upload.log
+*.log
+.DS_Store
