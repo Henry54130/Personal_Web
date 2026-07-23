@@ -3,4 +3,6 @@ public
 quartz/.quartz-cache
 auto_upload.log
 *.log
+auto_upload.sh
+*.sh
 .DS_Store
