@@ -1,18 +1,17 @@
 ---
 title: When we use AI to tackle our emotion
-aliases:
-  - 當我們開始用AI來處理情緒...
-tags:
-  - AI
-  - digital-life
-  - emotion
+aliases: [當我們開始用AI來處理情緒...]
+tags: [AI, digital-life, emotion]
 date created: 2026-03-01 06-44-04
 date modified: 2026-04-15 02-46-33
 level: 7
-link:
 note: 使用AI作為情緒垃圾桶可能使我們陷入負面循環
 published: true
 ---
+
+
+
+
 
 >[!CAUTION] 核心 
 >過度依賴 AI 處理情緒，可能導致我們陷入「負面情緒隧道」，在缺乏外部客觀輸入的情況下，原本的抑鬱或憤怒會被無限放大。

@@ -1,16 +1,16 @@
 ---
 title: 為什麼我使用obsidian 而非 notion
 aliases: []
-tags:
-  - obsidian
-  - digital-life
-  - notion
+tags: [obsidian, digital-life, notion]
 date created: 2026-01-14 09-31-03
 date modified: 2026-02-22 06-11-06
 level: 1
-note:
 published: true
 ---
+
+
+
+
 為什麼我選擇 Obsidian 而非 Notion？
 > 很多人都會問：「Obsidian 跟 Notion 哪個適合我？」
 > 我的回答是：「兩者各有優缺，比起選工具，不如先了解你真正的需求。」

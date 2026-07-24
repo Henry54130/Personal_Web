@@ -2,18 +2,16 @@
 date created: 2026-05-22 08-53-52
 date modified: 2026-05-24 11-16-30
 title: 2026 專案管理實踐：為什麼我將任務管理從 Obsidian 搬到 GitHub Issues
-link:
-  - "[[github issue 父子架構管理專案及任務]]"
+link: ['[[github issue 父子架構管理專案及任務]]']
 aliases: []
-tags:
-  - github
-  - obsidian
-  - time-management
-  - digital-life
-  - github-issue
+tags: [github, obsidian, time-management, digital-life, github-issue]
 level: 1
 published: true
 ---
+
+
+
+
 
 > [!summary] core：
 > 讓 Obsidian 回歸指揮，讓 GitHub 負責行動。透過將「動態任務」從「靜態筆記」中物理隔絕，徹底終結管理熵增。

@@ -1,12 +1,15 @@
 ---
 title: 選課怎麼選？我們來battle
-tags:
-  - 大學生活
-  - course
+tags: [大學生活, course]
 date created: 2025-02-19 12-48-00
 date modified: 2026-05-24 11-10-41
-published: false
+published: true
 ---
+
+
+
+
+
 >20250219:又又又是選課時間，我訪問了數位朋友，歸納出以下筆記。
 
 ## 🎓 大學選課決策模型：GPA 與知識的權衡

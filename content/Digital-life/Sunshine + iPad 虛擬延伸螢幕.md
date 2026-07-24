@@ -3,15 +3,15 @@ date created: 2026-04-15 02-22-42
 date modified: 2026-04-15 02-38-52
 title: Sunshine + iPad 虛擬延伸螢幕
 aliases: []
-tags:
-  - digital-life
-  - remote-destop
-  - iPad
+tags: [digital-life, remote-desktop, iPad]
 level: 1
-link:
-note:
-published: false
+published: true
 ---
+
+
+
+
+
 在開始之前，你要先知道如何使用 [[Moonlight sunshine+ tailscale]]、[[how to make virtual screen]]
 ### Step 1：找出 Display ID
 Sunshine 預設會抓取主螢幕，我們要強制它抓取剛建立的「虛擬螢幕」。

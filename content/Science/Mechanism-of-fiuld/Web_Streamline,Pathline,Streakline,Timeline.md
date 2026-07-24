@@ -1,13 +1,16 @@
 ---
 title: Streamline,Pathline,Streakline,Timeline
-aliases:
-  - 流線,跡線,煙線,時間線
-tags:
-  - 流體力學
+aliases: ['流線,跡線,煙線,時間線']
+tags: [mechanic-of-fluid]
 date created: 2026-01-25 03-49-48
 date modified: 2026-02-22 06-11-06
-published: false
+published: true
 ---
+
+
+
+
+
 | **線的種類**            | **標記對象**    | **時間概念**             | **用途**             | **想像範例**         |
 | ------------------- | ----------- | -------------------- | ------------------ | ---------------- |
 | **Streamline** (流線) | 整個流場        | **瞬間** (Snapshot)    | 看**瞬間**的流動方向       | 某一刻的風向圖          |

@@ -1,16 +1,16 @@
 ---
 date created: 2026-04-15 04-17-17
-date modified: 2026-04-15 04-24-03
+date modified: 2026-07-12 22-49-00
 title: README of Henry's Digital Garden
 aliases: []
-tags:
-  - quartz
-  - obsidian
+tags: [quartz, obsidian]
 level: 1
-link:
-note:
 published: true
 ---
+
+
+
+
 
 歡迎來到我的數位大腦備份區！這裡是我在網路上的一方小天地，記錄了我的生活軌跡、學習筆記以及各種思考的過程。
 
@@ -33,4 +33,4 @@ published: true
 
 - **大腦核心**：[Obsidian](https://obsidian.md/) (所有的筆記都在此誕生)
 - **網站生成引擎**：[Quartz 4](https://quartz.jzhao.xyz/) (負責將 Markdown 轉換為漂亮的靜態網頁)
-- **自動化部署**：GitHub Actions & GitHub Pages (一鍵 Push，全自動發布)
+- **自動化部署**：GitHub Actions & GitHub Pages

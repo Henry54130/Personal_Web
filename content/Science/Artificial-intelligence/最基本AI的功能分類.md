@@ -1,10 +1,15 @@
 ---
-title:
-  - 最基本的AI的功能分類
+title: 最基本的AI的功能分類
 date created: 2026-01-25 03-49-48
 date modified: 2026-02-22 06-11-06
-published: false
+published: true
 ---
+
+
+
+
+
+
 | 類別                                 | 功能                            | 演算法                                                                                               |
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------- |
 | **監督式學習 (Supervised)**             | 預測 (Predicting)               | Linear regression, Decision Tree, Random Forest, Neural Network, Gradient Boosting Tree, CNN, RNN |
@@ -16,4 +21,4 @@ published: false
 
 ---
 links:
-- [[0_unmanaged/MD/監督式學習及非監督式學習.md|監督式學習及非監督式學習]]
+- [[監督式學習及非監督式學習|監督式學習及非監督式學習]]

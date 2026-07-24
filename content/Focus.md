@@ -4,6 +4,11 @@ date created: 2026-01-25 03-49-49
 date modified: 2026-02-22 06-11-06
 published: true
 ---
+
+
+
+
+
 #人本溫暖
 
 🔗 [7 成員工是慢飛天使！日企曝最大化生產力的關鍵：別讓員工適應流程](https://www.managertoday.com.tw/articles/view/69276?)  
@@ -29,6 +34,6 @@ published: true
 🔗 [如何找到合適的副業目標](https://www.facebook.com/linhoun/posts/pfbid02xnzuLne4CAWafuaysX2fr3tt7nLoFYVcknrvofHgFsPs1dEYTDssvpgVzvferXX3l)
 
 ---
-#learning #筆記 #上課  
+#learning #noting #上課  
 
 🔗 [怎麼知道課程、講座的重點呢？](https://www.facebook.com/chihua.wang.3/posts/pfbid0vmi2F7KAiUGywwdir2cjDehM3JpnfhBaSR6h1qmNyFsYUXNpLNf2GafHDT5FTAYSl)

@@ -1,13 +1,15 @@
 ---
 title: Mechanic of Fluid
-tags:
-  - MOC
-  - mechanic-of-fiuld
+tags: [MOC, mechanic-of-fluid]
 date created: 2025-12-01 02-59-17
 date modified: 2026-03-03 10-05-15
-note:
-published: false
+published: true
 ---
+
+
+
+
+
 ## Basic Concept
 - [[流體狀態描述_拉格朗日及歐拉表述
 - [[Web_Streamline,Pathline,Streakline,Timeline]]
