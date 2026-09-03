@@ -1,9 +1,11 @@
 ---
 date created: 2026-04-15 04-17-17
 date modified: 2026-07-12 22-49-00
-title: README of Henry's Digital Garden
+title: README
 aliases: []
-tags: [quartz, obsidian]
+tags:
+  - quartz
+  - obsidian
 level: 1
 published: true
 ---
