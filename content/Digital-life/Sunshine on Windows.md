@@ -1,14 +1,14 @@
 ---
-title: 🚀 宿舍電腦遠端工作站：Moonlight + Sunshine + Tailscale 指南
+title: Sunshine on Windows
 aliases: []
-tags: [coding, software, digital-life, game]
+tags:
+  - digital-life
+  - windows
 date created: 2026-01-21 10-19-10
 date modified: 2026-04-15 02-39-59
 level: 1
 published: true
 ---
-
-
 
 
 延伸：[[Sunshine + iPad 虛擬延伸螢幕]] 
@@ -33,7 +33,7 @@ published: true
 ---
 
 ## 🖥️ 第二階段：配置主機服務 (Sunshine)
-*讓你的 Windows 電腦具備高性能串流能力。*
+*讓 Windows 電腦具備高性能串流能力。*
 
 - [ ] **安裝 Sunshine**：
     1. 從 [GitHub Releases](https://github.com/LizardByte/Sunshine/releases) 下載 `.exe` 並安裝。

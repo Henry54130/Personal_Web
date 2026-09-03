@@ -20,5 +20,5 @@ published: true
 - [[如何使用syncthing 同步wins及ios|Syncthing (Windows & iOS) 同步教學]]
 - [[2026我的數位自主程式推薦]]
 - [[When we use AI to tackle our emotion]]
-- [[Moonlight sunshine+ tailscale]]
+- [[Sunshine on Windows]]
 - [[GitHub Issue + Obsidian 時間管理術]]

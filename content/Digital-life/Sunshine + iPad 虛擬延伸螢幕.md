@@ -12,7 +12,7 @@ published: true
 
 
 
-在開始之前，你要先知道如何使用 [[Moonlight sunshine+ tailscale]]、[[how to make virtual screen]]
+在開始之前，你要先知道如何使用 [[Sunshine on Windows]]、[[how to make virtual screen]]
 ### Step 1：找出 Display ID
 Sunshine 預設會抓取主螢幕，我們要強制它抓取剛建立的「虛擬螢幕」。
 

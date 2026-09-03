@@ -6,18 +6,13 @@ note: Welcome to Henry’s Digital Garden !
 published: true
 ---
 
-
-
-
-
 >[!info]
->[[README of Henry's Digital Garden|了解我的網站 !]]
->～以下是我的筆記入口!也可以透過搜尋欄直接搜尋～
+>[[README]] $\leftarrow$ 了解這座花園
 
 ## Recordings or Works
 - [[Music_I_Listen|了解我喜愛的音樂]]
 - [[Game_Diary|了解我曾經玩過的遊戲]]
-- [[Capture|探索我的私藏照片]]
+- [[Daily|探索我的私藏照片]]
 - [[Focus|了解我關注的議題]]
 
 ## Contents and Notes

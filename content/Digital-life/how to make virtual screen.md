@@ -1,11 +1,14 @@
 ---
 title: IddSampleDriver 虛擬螢幕設置指南
-aliases: [使用sunshine、moonlight時，不想讓電腦螢幕亮起只想亮遠端螢幕！！]
-tags: [digital-life]
+aliases:
+  - 使用sunshine、moonlight時，不想讓電腦螢幕亮起只想亮遠端螢幕！！
+tags:
+  - digital-life
 date created: 2026-01-23 05-47-55
 date modified: 2026-04-15 02-20-24
 level: 1
-link: ['[[Moonlight sunshine+ tailscale]]']
+link:
+  - "[[Sunshine on Windows]]"
 published: true
 ---
 

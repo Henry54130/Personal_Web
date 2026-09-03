@@ -10,5 +10,5 @@ published: true
 
 
 - [[自動控制]]
-- [[AI]]
+- [[AI 1]]
 - [[Topic_Mechanic_of_fluid]]
