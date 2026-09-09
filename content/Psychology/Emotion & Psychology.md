@@ -6,9 +6,11 @@ tags: [emotion]
 ---
 
 
-
-
 - [[嘗試與焦慮共舞]]
 - [[辨識「合理化」]]
 - [[當我們不再責備自己]]
 - [[When we use AI to tackle our emotion]]
+
+```dataview
+FROM #
+```
